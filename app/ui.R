@@ -1,25 +1,26 @@
 ui <- fluidPage(
   
-  titlePanel("Game Recommendations"),
+  titlePanel("MH Scotland"),
   
   sidebarLayout(
     sidebarPanel(
       
-      sliderInput(inputId = "year_input", 
-                  label = tags$b("Time Period"),
+      sliderInput("year_input", 
+                  "Date range:",
                   min = 1997, 
-                  max = 2021, 
-                  value = c(1997, 2021)),
-                  
+                  max = 2021,
+                  step = 1,
+                  sep = "",
+                  value = c(2010,2015)),
+
                   actionButton(inputId = "submit_input",
                                label = "Submit / Update"),
                   
       ),
       
       mainPanel(
-        # Plot Output 
         
-        plotOutput("suggestion_plot")
+        plotOutput("admissions_plot")
         
       ),
     ),
