@@ -1,0 +1,2126 @@
+financial_year,health_board,length_of_stay,number_of_stays
+1997,The Golden Jubilee National Hospital,< 1 day,0
+1997,The Golden Jubilee National Hospital,1 - 7 days,0
+1997,The Golden Jubilee National Hospital,8 - 28 days,0
+1997,The Golden Jubilee National Hospital,29 days - 6 months,0
+1997,The Golden Jubilee National Hospital,> 6 months,0
+1997,NHS Ayrshire and Arran,< 1 day,270
+1997,NHS Ayrshire and Arran,1 - 7 days,1080
+1997,NHS Ayrshire and Arran,8 - 28 days,1210
+1997,NHS Ayrshire and Arran,29 days - 6 months,640
+1997,NHS Ayrshire and Arran,> 6 months,150
+1997,NHS Borders,< 1 day,50
+1997,NHS Borders,1 - 7 days,290
+1997,NHS Borders,8 - 28 days,290
+1997,NHS Borders,29 days - 6 months,180
+1997,NHS Borders,> 6 months,60
+1997,NHS Dumfries and Galloway,< 1 day,50
+1997,NHS Dumfries and Galloway,1 - 7 days,320
+1997,NHS Dumfries and Galloway,8 - 28 days,300
+1997,NHS Dumfries and Galloway,29 days - 6 months,300
+1997,NHS Dumfries and Galloway,> 6 months,70
+1997,NHS Fife,< 1 day,90
+1997,NHS Fife,1 - 7 days,590
+1997,NHS Fife,8 - 28 days,610
+1997,NHS Fife,29 days - 6 months,560
+1997,NHS Fife,> 6 months,130
+1997,NHS Forth Valley,< 1 day,120
+1997,NHS Forth Valley,1 - 7 days,390
+1997,NHS Forth Valley,8 - 28 days,630
+1997,NHS Forth Valley,29 days - 6 months,430
+1997,NHS Forth Valley,> 6 months,120
+1997,NHS Grampian,< 1 day,190
+1997,NHS Grampian,1 - 7 days,1000
+1997,NHS Grampian,8 - 28 days,1090
+1997,NHS Grampian,29 days - 6 months,730
+1997,NHS Grampian,> 6 months,170
+1997,NHS Greater Glasgow and Clyde,< 1 day,540
+1997,NHS Greater Glasgow and Clyde,1 - 7 days,3120
+1997,NHS Greater Glasgow and Clyde,8 - 28 days,3360
+1997,NHS Greater Glasgow and Clyde,29 days - 6 months,2570
+1997,NHS Greater Glasgow and Clyde,> 6 months,690
+1997,NHS Highland,< 1 day,190
+1997,NHS Highland,1 - 7 days,970
+1997,NHS Highland,8 - 28 days,970
+1997,NHS Highland,29 days - 6 months,580
+1997,NHS Highland,> 6 months,120
+1997,NHS Lanarkshire,< 1 day,210
+1997,NHS Lanarkshire,1 - 7 days,940
+1997,NHS Lanarkshire,8 - 28 days,990
+1997,NHS Lanarkshire,29 days - 6 months,630
+1997,NHS Lanarkshire,> 6 months,160
+1997,NHS Lothian,< 1 day,300
+1997,NHS Lothian,1 - 7 days,1860
+1997,NHS Lothian,8 - 28 days,2300
+1997,NHS Lothian,29 days - 6 months,1390
+1997,NHS Lothian,> 6 months,290
+1997,NHS Orkney,< 1 day,20
+1997,NHS Orkney,1 - 7 days,30
+1997,NHS Orkney,8 - 28 days,10
+1997,NHS Orkney,29 days - 6 months,0
+1997,NHS Orkney,> 6 months,0
+1997,NHS Shetland,< 1 day,40
+1997,NHS Shetland,1 - 7 days,60
+1997,NHS Shetland,8 - 28 days,10
+1997,NHS Shetland,29 days - 6 months,10
+1997,NHS Shetland,> 6 months,0
+1997,NHS Tayside,< 1 day,210
+1997,NHS Tayside,1 - 7 days,910
+1997,NHS Tayside,8 - 28 days,1130
+1997,NHS Tayside,29 days - 6 months,880
+1997,NHS Tayside,> 6 months,210
+1997,NHS Western Isles,< 1 day,20
+1997,NHS Western Isles,1 - 7 days,100
+1997,NHS Western Isles,8 - 28 days,150
+1997,NHS Western Isles,29 days - 6 months,30
+1997,NHS Western Isles,> 6 months,10
+1997,State Hospitals Board for Scotland,< 1 day,0
+1997,State Hospitals Board for Scotland,1 - 7 days,0
+1997,State Hospitals Board for Scotland,8 - 28 days,0
+1997,State Hospitals Board for Scotland,29 days - 6 months,10
+1997,State Hospitals Board for Scotland,> 6 months,20
+1997,All of Scotland,< 1 day,2290
+1997,All of Scotland,1 - 7 days,11670
+1997,All of Scotland,8 - 28 days,13040
+1997,All of Scotland,29 days - 6 months,8940
+1997,All of Scotland,> 6 months,2200
+1998,The Golden Jubilee National Hospital,< 1 day,0
+1998,The Golden Jubilee National Hospital,1 - 7 days,0
+1998,The Golden Jubilee National Hospital,8 - 28 days,0
+1998,The Golden Jubilee National Hospital,29 days - 6 months,0
+1998,The Golden Jubilee National Hospital,> 6 months,0
+1998,NHS Ayrshire and Arran,< 1 day,270
+1998,NHS Ayrshire and Arran,1 - 7 days,1070
+1998,NHS Ayrshire and Arran,8 - 28 days,1140
+1998,NHS Ayrshire and Arran,29 days - 6 months,710
+1998,NHS Ayrshire and Arran,> 6 months,150
+1998,NHS Borders,< 1 day,40
+1998,NHS Borders,1 - 7 days,260
+1998,NHS Borders,8 - 28 days,250
+1998,NHS Borders,29 days - 6 months,210
+1998,NHS Borders,> 6 months,50
+1998,NHS Dumfries and Galloway,< 1 day,70
+1998,NHS Dumfries and Galloway,1 - 7 days,320
+1998,NHS Dumfries and Galloway,8 - 28 days,320
+1998,NHS Dumfries and Galloway,29 days - 6 months,280
+1998,NHS Dumfries and Galloway,> 6 months,80
+1998,NHS Fife,< 1 day,100
+1998,NHS Fife,1 - 7 days,620
+1998,NHS Fife,8 - 28 days,650
+1998,NHS Fife,29 days - 6 months,540
+1998,NHS Fife,> 6 months,130
+1998,NHS Forth Valley,< 1 day,150
+1998,NHS Forth Valley,1 - 7 days,360
+1998,NHS Forth Valley,8 - 28 days,480
+1998,NHS Forth Valley,29 days - 6 months,440
+1998,NHS Forth Valley,> 6 months,90
+1998,NHS Grampian,< 1 day,200
+1998,NHS Grampian,1 - 7 days,1040
+1998,NHS Grampian,8 - 28 days,1130
+1998,NHS Grampian,29 days - 6 months,790
+1998,NHS Grampian,> 6 months,190
+1998,NHS Greater Glasgow and Clyde,< 1 day,500
+1998,NHS Greater Glasgow and Clyde,1 - 7 days,3040
+1998,NHS Greater Glasgow and Clyde,8 - 28 days,3180
+1998,NHS Greater Glasgow and Clyde,29 days - 6 months,2570
+1998,NHS Greater Glasgow and Clyde,> 6 months,700
+1998,NHS Highland,< 1 day,220
+1998,NHS Highland,1 - 7 days,1050
+1998,NHS Highland,8 - 28 days,980
+1998,NHS Highland,29 days - 6 months,610
+1998,NHS Highland,> 6 months,120
+1998,NHS Lanarkshire,< 1 day,220
+1998,NHS Lanarkshire,1 - 7 days,1000
+1998,NHS Lanarkshire,8 - 28 days,1080
+1998,NHS Lanarkshire,29 days - 6 months,760
+1998,NHS Lanarkshire,> 6 months,180
+1998,NHS Lothian,< 1 day,290
+1998,NHS Lothian,1 - 7 days,1760
+1998,NHS Lothian,8 - 28 days,2180
+1998,NHS Lothian,29 days - 6 months,1420
+1998,NHS Lothian,> 6 months,300
+1998,NHS Orkney,< 1 day,20
+1998,NHS Orkney,1 - 7 days,30
+1998,NHS Orkney,8 - 28 days,10
+1998,NHS Orkney,29 days - 6 months,0
+1998,NHS Orkney,> 6 months,0
+1998,NHS Shetland,< 1 day,40
+1998,NHS Shetland,1 - 7 days,60
+1998,NHS Shetland,8 - 28 days,10
+1998,NHS Shetland,29 days - 6 months,10
+1998,NHS Shetland,> 6 months,0
+1998,NHS Tayside,< 1 day,210
+1998,NHS Tayside,1 - 7 days,930
+1998,NHS Tayside,8 - 28 days,1040
+1998,NHS Tayside,29 days - 6 months,890
+1998,NHS Tayside,> 6 months,260
+1998,NHS Western Isles,< 1 day,20
+1998,NHS Western Isles,1 - 7 days,80
+1998,NHS Western Isles,8 - 28 days,50
+1998,NHS Western Isles,29 days - 6 months,10
+1998,NHS Western Isles,> 6 months,10
+1998,State Hospitals Board for Scotland,< 1 day,0
+1998,State Hospitals Board for Scotland,1 - 7 days,0
+1998,State Hospitals Board for Scotland,8 - 28 days,0
+1998,State Hospitals Board for Scotland,29 days - 6 months,10
+1998,State Hospitals Board for Scotland,> 6 months,10
+1998,All of Scotland,< 1 day,2360
+1998,All of Scotland,1 - 7 days,11620
+1998,All of Scotland,8 - 28 days,12490
+1998,All of Scotland,29 days - 6 months,9250
+1998,All of Scotland,> 6 months,2280
+1999,The Golden Jubilee National Hospital,< 1 day,0
+1999,The Golden Jubilee National Hospital,1 - 7 days,0
+1999,The Golden Jubilee National Hospital,8 - 28 days,0
+1999,The Golden Jubilee National Hospital,29 days - 6 months,0
+1999,The Golden Jubilee National Hospital,> 6 months,0
+1999,NHS Ayrshire and Arran,< 1 day,270
+1999,NHS Ayrshire and Arran,1 - 7 days,1030
+1999,NHS Ayrshire and Arran,8 - 28 days,1010
+1999,NHS Ayrshire and Arran,29 days - 6 months,630
+1999,NHS Ayrshire and Arran,> 6 months,140
+1999,NHS Borders,< 1 day,50
+1999,NHS Borders,1 - 7 days,240
+1999,NHS Borders,8 - 28 days,250
+1999,NHS Borders,29 days - 6 months,170
+1999,NHS Borders,> 6 months,50
+1999,NHS Dumfries and Galloway,< 1 day,70
+1999,NHS Dumfries and Galloway,1 - 7 days,270
+1999,NHS Dumfries and Galloway,8 - 28 days,260
+1999,NHS Dumfries and Galloway,29 days - 6 months,260
+1999,NHS Dumfries and Galloway,> 6 months,60
+1999,NHS Fife,< 1 day,100
+1999,NHS Fife,1 - 7 days,640
+1999,NHS Fife,8 - 28 days,620
+1999,NHS Fife,29 days - 6 months,500
+1999,NHS Fife,> 6 months,120
+1999,NHS Forth Valley,< 1 day,110
+1999,NHS Forth Valley,1 - 7 days,400
+1999,NHS Forth Valley,8 - 28 days,420
+1999,NHS Forth Valley,29 days - 6 months,340
+1999,NHS Forth Valley,> 6 months,100
+1999,NHS Grampian,< 1 day,210
+1999,NHS Grampian,1 - 7 days,1000
+1999,NHS Grampian,8 - 28 days,1080
+1999,NHS Grampian,29 days - 6 months,710
+1999,NHS Grampian,> 6 months,180
+1999,NHS Greater Glasgow and Clyde,< 1 day,610
+1999,NHS Greater Glasgow and Clyde,1 - 7 days,3110
+1999,NHS Greater Glasgow and Clyde,8 - 28 days,3070
+1999,NHS Greater Glasgow and Clyde,29 days - 6 months,2570
+1999,NHS Greater Glasgow and Clyde,> 6 months,610
+1999,NHS Highland,< 1 day,250
+1999,NHS Highland,1 - 7 days,1180
+1999,NHS Highland,8 - 28 days,1000
+1999,NHS Highland,29 days - 6 months,610
+1999,NHS Highland,> 6 months,110
+1999,NHS Lanarkshire,< 1 day,250
+1999,NHS Lanarkshire,1 - 7 days,1080
+1999,NHS Lanarkshire,8 - 28 days,1090
+1999,NHS Lanarkshire,29 days - 6 months,810
+1999,NHS Lanarkshire,> 6 months,190
+1999,NHS Lothian,< 1 day,280
+1999,NHS Lothian,1 - 7 days,1710
+1999,NHS Lothian,8 - 28 days,2090
+1999,NHS Lothian,29 days - 6 months,1370
+1999,NHS Lothian,> 6 months,330
+1999,NHS Orkney,< 1 day,20
+1999,NHS Orkney,1 - 7 days,20
+1999,NHS Orkney,8 - 28 days,0
+1999,NHS Orkney,29 days - 6 months,0
+1999,NHS Orkney,> 6 months,0
+1999,NHS Shetland,< 1 day,40
+1999,NHS Shetland,1 - 7 days,40
+1999,NHS Shetland,8 - 28 days,10
+1999,NHS Shetland,29 days - 6 months,0
+1999,NHS Shetland,> 6 months,0
+1999,NHS Tayside,< 1 day,250
+1999,NHS Tayside,1 - 7 days,890
+1999,NHS Tayside,8 - 28 days,940
+1999,NHS Tayside,29 days - 6 months,800
+1999,NHS Tayside,> 6 months,220
+1999,NHS Western Isles,< 1 day,30
+1999,NHS Western Isles,1 - 7 days,120
+1999,NHS Western Isles,8 - 28 days,110
+1999,NHS Western Isles,29 days - 6 months,50
+1999,NHS Western Isles,> 6 months,10
+1999,State Hospitals Board for Scotland,< 1 day,0
+1999,State Hospitals Board for Scotland,1 - 7 days,0
+1999,State Hospitals Board for Scotland,8 - 28 days,0
+1999,State Hospitals Board for Scotland,29 days - 6 months,10
+1999,State Hospitals Board for Scotland,> 6 months,20
+1999,All of Scotland,< 1 day,2530
+1999,All of Scotland,1 - 7 days,11720
+1999,All of Scotland,8 - 28 days,11970
+1999,All of Scotland,29 days - 6 months,8830
+1999,All of Scotland,> 6 months,2140
+2000,The Golden Jubilee National Hospital,< 1 day,0
+2000,The Golden Jubilee National Hospital,1 - 7 days,0
+2000,The Golden Jubilee National Hospital,8 - 28 days,0
+2000,The Golden Jubilee National Hospital,29 days - 6 months,0
+2000,The Golden Jubilee National Hospital,> 6 months,0
+2000,NHS Ayrshire and Arran,< 1 day,220
+2000,NHS Ayrshire and Arran,1 - 7 days,1030
+2000,NHS Ayrshire and Arran,8 - 28 days,900
+2000,NHS Ayrshire and Arran,29 days - 6 months,630
+2000,NHS Ayrshire and Arran,> 6 months,140
+2000,NHS Borders,< 1 day,50
+2000,NHS Borders,1 - 7 days,260
+2000,NHS Borders,8 - 28 days,220
+2000,NHS Borders,29 days - 6 months,170
+2000,NHS Borders,> 6 months,40
+2000,NHS Dumfries and Galloway,< 1 day,60
+2000,NHS Dumfries and Galloway,1 - 7 days,330
+2000,NHS Dumfries and Galloway,8 - 28 days,250
+2000,NHS Dumfries and Galloway,29 days - 6 months,250
+2000,NHS Dumfries and Galloway,> 6 months,80
+2000,NHS Fife,< 1 day,80
+2000,NHS Fife,1 - 7 days,600
+2000,NHS Fife,8 - 28 days,580
+2000,NHS Fife,29 days - 6 months,430
+2000,NHS Fife,> 6 months,130
+2000,NHS Forth Valley,< 1 day,110
+2000,NHS Forth Valley,1 - 7 days,390
+2000,NHS Forth Valley,8 - 28 days,430
+2000,NHS Forth Valley,29 days - 6 months,360
+2000,NHS Forth Valley,> 6 months,80
+2000,NHS Grampian,< 1 day,190
+2000,NHS Grampian,1 - 7 days,1060
+2000,NHS Grampian,8 - 28 days,1050
+2000,NHS Grampian,29 days - 6 months,680
+2000,NHS Grampian,> 6 months,180
+2000,NHS Greater Glasgow and Clyde,< 1 day,540
+2000,NHS Greater Glasgow and Clyde,1 - 7 days,3120
+2000,NHS Greater Glasgow and Clyde,8 - 28 days,2950
+2000,NHS Greater Glasgow and Clyde,29 days - 6 months,2460
+2000,NHS Greater Glasgow and Clyde,> 6 months,550
+2000,NHS Highland,< 1 day,270
+2000,NHS Highland,1 - 7 days,1230
+2000,NHS Highland,8 - 28 days,1040
+2000,NHS Highland,29 days - 6 months,610
+2000,NHS Highland,> 6 months,110
+2000,NHS Lanarkshire,< 1 day,230
+2000,NHS Lanarkshire,1 - 7 days,1140
+2000,NHS Lanarkshire,8 - 28 days,1040
+2000,NHS Lanarkshire,29 days - 6 months,800
+2000,NHS Lanarkshire,> 6 months,160
+2000,NHS Lothian,< 1 day,300
+2000,NHS Lothian,1 - 7 days,1580
+2000,NHS Lothian,8 - 28 days,1850
+2000,NHS Lothian,29 days - 6 months,1320
+2000,NHS Lothian,> 6 months,300
+2000,NHS Orkney,< 1 day,30
+2000,NHS Orkney,1 - 7 days,30
+2000,NHS Orkney,8 - 28 days,10
+2000,NHS Orkney,29 days - 6 months,0
+2000,NHS Orkney,> 6 months,0
+2000,NHS Shetland,< 1 day,30
+2000,NHS Shetland,1 - 7 days,50
+2000,NHS Shetland,8 - 28 days,10
+2000,NHS Shetland,29 days - 6 months,0
+2000,NHS Shetland,> 6 months,0
+2000,NHS Tayside,< 1 day,310
+2000,NHS Tayside,1 - 7 days,880
+2000,NHS Tayside,8 - 28 days,840
+2000,NHS Tayside,29 days - 6 months,740
+2000,NHS Tayside,> 6 months,220
+2000,NHS Western Isles,< 1 day,30
+2000,NHS Western Isles,1 - 7 days,110
+2000,NHS Western Isles,8 - 28 days,130
+2000,NHS Western Isles,29 days - 6 months,40
+2000,NHS Western Isles,> 6 months,10
+2000,State Hospitals Board for Scotland,< 1 day,0
+2000,State Hospitals Board for Scotland,1 - 7 days,0
+2000,State Hospitals Board for Scotland,8 - 28 days,0
+2000,State Hospitals Board for Scotland,29 days - 6 months,10
+2000,State Hospitals Board for Scotland,> 6 months,20
+2000,All of Scotland,< 1 day,2430
+2000,All of Scotland,1 - 7 days,11800
+2000,All of Scotland,8 - 28 days,11320
+2000,All of Scotland,29 days - 6 months,8510
+2000,All of Scotland,> 6 months,2040
+2001,The Golden Jubilee National Hospital,< 1 day,0
+2001,The Golden Jubilee National Hospital,1 - 7 days,0
+2001,The Golden Jubilee National Hospital,8 - 28 days,0
+2001,The Golden Jubilee National Hospital,29 days - 6 months,0
+2001,The Golden Jubilee National Hospital,> 6 months,0
+2001,NHS Ayrshire and Arran,< 1 day,260
+2001,NHS Ayrshire and Arran,1 - 7 days,1040
+2001,NHS Ayrshire and Arran,8 - 28 days,820
+2001,NHS Ayrshire and Arran,29 days - 6 months,630
+2001,NHS Ayrshire and Arran,> 6 months,150
+2001,NHS Borders,< 1 day,60
+2001,NHS Borders,1 - 7 days,290
+2001,NHS Borders,8 - 28 days,250
+2001,NHS Borders,29 days - 6 months,200
+2001,NHS Borders,> 6 months,40
+2001,NHS Dumfries and Galloway,< 1 day,70
+2001,NHS Dumfries and Galloway,1 - 7 days,330
+2001,NHS Dumfries and Galloway,8 - 28 days,280
+2001,NHS Dumfries and Galloway,29 days - 6 months,240
+2001,NHS Dumfries and Galloway,> 6 months,40
+2001,NHS Fife,< 1 day,80
+2001,NHS Fife,1 - 7 days,610
+2001,NHS Fife,8 - 28 days,530
+2001,NHS Fife,29 days - 6 months,500
+2001,NHS Fife,> 6 months,120
+2001,NHS Forth Valley,< 1 day,120
+2001,NHS Forth Valley,1 - 7 days,350
+2001,NHS Forth Valley,8 - 28 days,450
+2001,NHS Forth Valley,29 days - 6 months,390
+2001,NHS Forth Valley,> 6 months,80
+2001,NHS Grampian,< 1 day,230
+2001,NHS Grampian,1 - 7 days,1010
+2001,NHS Grampian,8 - 28 days,990
+2001,NHS Grampian,29 days - 6 months,740
+2001,NHS Grampian,> 6 months,160
+2001,NHS Greater Glasgow and Clyde,< 1 day,520
+2001,NHS Greater Glasgow and Clyde,1 - 7 days,2900
+2001,NHS Greater Glasgow and Clyde,8 - 28 days,2780
+2001,NHS Greater Glasgow and Clyde,29 days - 6 months,2420
+2001,NHS Greater Glasgow and Clyde,> 6 months,560
+2001,NHS Highland,< 1 day,240
+2001,NHS Highland,1 - 7 days,1110
+2001,NHS Highland,8 - 28 days,890
+2001,NHS Highland,29 days - 6 months,500
+2001,NHS Highland,> 6 months,140
+2001,NHS Lanarkshire,< 1 day,240
+2001,NHS Lanarkshire,1 - 7 days,1020
+2001,NHS Lanarkshire,8 - 28 days,1000
+2001,NHS Lanarkshire,29 days - 6 months,840
+2001,NHS Lanarkshire,> 6 months,160
+2001,NHS Lothian,< 1 day,310
+2001,NHS Lothian,1 - 7 days,1640
+2001,NHS Lothian,8 - 28 days,1930
+2001,NHS Lothian,29 days - 6 months,1300
+2001,NHS Lothian,> 6 months,340
+2001,NHS Orkney,< 1 day,30
+2001,NHS Orkney,1 - 7 days,40
+2001,NHS Orkney,8 - 28 days,10
+2001,NHS Orkney,29 days - 6 months,0
+2001,NHS Orkney,> 6 months,0
+2001,NHS Shetland,< 1 day,20
+2001,NHS Shetland,1 - 7 days,50
+2001,NHS Shetland,8 - 28 days,10
+2001,NHS Shetland,29 days - 6 months,0
+2001,NHS Shetland,> 6 months,0
+2001,NHS Tayside,< 1 day,240
+2001,NHS Tayside,1 - 7 days,900
+2001,NHS Tayside,8 - 28 days,830
+2001,NHS Tayside,29 days - 6 months,730
+2001,NHS Tayside,> 6 months,210
+2001,NHS Western Isles,< 1 day,30
+2001,NHS Western Isles,1 - 7 days,130
+2001,NHS Western Isles,8 - 28 days,120
+2001,NHS Western Isles,29 days - 6 months,40
+2001,NHS Western Isles,> 6 months,10
+2001,State Hospitals Board for Scotland,< 1 day,0
+2001,State Hospitals Board for Scotland,1 - 7 days,0
+2001,State Hospitals Board for Scotland,8 - 28 days,0
+2001,State Hospitals Board for Scotland,29 days - 6 months,10
+2001,State Hospitals Board for Scotland,> 6 months,10
+2001,All of Scotland,< 1 day,2460
+2001,All of Scotland,1 - 7 days,11440
+2001,All of Scotland,8 - 28 days,10890
+2001,All of Scotland,29 days - 6 months,8540
+2001,All of Scotland,> 6 months,2010
+2002,The Golden Jubilee National Hospital,< 1 day,0
+2002,The Golden Jubilee National Hospital,1 - 7 days,0
+2002,The Golden Jubilee National Hospital,8 - 28 days,0
+2002,The Golden Jubilee National Hospital,29 days - 6 months,0
+2002,The Golden Jubilee National Hospital,> 6 months,0
+2002,NHS Ayrshire and Arran,< 1 day,240
+2002,NHS Ayrshire and Arran,1 - 7 days,880
+2002,NHS Ayrshire and Arran,8 - 28 days,800
+2002,NHS Ayrshire and Arran,29 days - 6 months,640
+2002,NHS Ayrshire and Arran,> 6 months,130
+2002,NHS Borders,< 1 day,80
+2002,NHS Borders,1 - 7 days,320
+2002,NHS Borders,8 - 28 days,270
+2002,NHS Borders,29 days - 6 months,180
+2002,NHS Borders,> 6 months,50
+2002,NHS Dumfries and Galloway,< 1 day,60
+2002,NHS Dumfries and Galloway,1 - 7 days,360
+2002,NHS Dumfries and Galloway,8 - 28 days,260
+2002,NHS Dumfries and Galloway,29 days - 6 months,220
+2002,NHS Dumfries and Galloway,> 6 months,50
+2002,NHS Fife,< 1 day,100
+2002,NHS Fife,1 - 7 days,610
+2002,NHS Fife,8 - 28 days,560
+2002,NHS Fife,29 days - 6 months,500
+2002,NHS Fife,> 6 months,140
+2002,NHS Forth Valley,< 1 day,120
+2002,NHS Forth Valley,1 - 7 days,400
+2002,NHS Forth Valley,8 - 28 days,440
+2002,NHS Forth Valley,29 days - 6 months,380
+2002,NHS Forth Valley,> 6 months,70
+2002,NHS Grampian,< 1 day,190
+2002,NHS Grampian,1 - 7 days,960
+2002,NHS Grampian,8 - 28 days,890
+2002,NHS Grampian,29 days - 6 months,710
+2002,NHS Grampian,> 6 months,200
+2002,NHS Greater Glasgow and Clyde,< 1 day,420
+2002,NHS Greater Glasgow and Clyde,1 - 7 days,2900
+2002,NHS Greater Glasgow and Clyde,8 - 28 days,2790
+2002,NHS Greater Glasgow and Clyde,29 days - 6 months,2360
+2002,NHS Greater Glasgow and Clyde,> 6 months,510
+2002,NHS Highland,< 1 day,230
+2002,NHS Highland,1 - 7 days,1180
+2002,NHS Highland,8 - 28 days,890
+2002,NHS Highland,29 days - 6 months,490
+2002,NHS Highland,> 6 months,110
+2002,NHS Lanarkshire,< 1 day,260
+2002,NHS Lanarkshire,1 - 7 days,1080
+2002,NHS Lanarkshire,8 - 28 days,1090
+2002,NHS Lanarkshire,29 days - 6 months,870
+2002,NHS Lanarkshire,> 6 months,140
+2002,NHS Lothian,< 1 day,330
+2002,NHS Lothian,1 - 7 days,1710
+2002,NHS Lothian,8 - 28 days,1910
+2002,NHS Lothian,29 days - 6 months,1380
+2002,NHS Lothian,> 6 months,280
+2002,NHS Orkney,< 1 day,20
+2002,NHS Orkney,1 - 7 days,30
+2002,NHS Orkney,8 - 28 days,0
+2002,NHS Orkney,29 days - 6 months,0
+2002,NHS Orkney,> 6 months,0
+2002,NHS Shetland,< 1 day,30
+2002,NHS Shetland,1 - 7 days,60
+2002,NHS Shetland,8 - 28 days,10
+2002,NHS Shetland,29 days - 6 months,0
+2002,NHS Shetland,> 6 months,0
+2002,NHS Tayside,< 1 day,170
+2002,NHS Tayside,1 - 7 days,780
+2002,NHS Tayside,8 - 28 days,690
+2002,NHS Tayside,29 days - 6 months,740
+2002,NHS Tayside,> 6 months,210
+2002,NHS Western Isles,< 1 day,40
+2002,NHS Western Isles,1 - 7 days,120
+2002,NHS Western Isles,8 - 28 days,150
+2002,NHS Western Isles,29 days - 6 months,40
+2002,NHS Western Isles,> 6 months,10
+2002,State Hospitals Board for Scotland,< 1 day,0
+2002,State Hospitals Board for Scotland,1 - 7 days,0
+2002,State Hospitals Board for Scotland,8 - 28 days,0
+2002,State Hospitals Board for Scotland,29 days - 6 months,10
+2002,State Hospitals Board for Scotland,> 6 months,20
+2002,All of Scotland,< 1 day,2280
+2002,All of Scotland,1 - 7 days,11380
+2002,All of Scotland,8 - 28 days,10740
+2002,All of Scotland,29 days - 6 months,8530
+2002,All of Scotland,> 6 months,1920
+2003,The Golden Jubilee National Hospital,< 1 day,0
+2003,The Golden Jubilee National Hospital,1 - 7 days,0
+2003,The Golden Jubilee National Hospital,8 - 28 days,0
+2003,The Golden Jubilee National Hospital,29 days - 6 months,0
+2003,The Golden Jubilee National Hospital,> 6 months,0
+2003,NHS Ayrshire and Arran,< 1 day,270
+2003,NHS Ayrshire and Arran,1 - 7 days,950
+2003,NHS Ayrshire and Arran,8 - 28 days,730
+2003,NHS Ayrshire and Arran,29 days - 6 months,620
+2003,NHS Ayrshire and Arran,> 6 months,100
+2003,NHS Borders,< 1 day,60
+2003,NHS Borders,1 - 7 days,310
+2003,NHS Borders,8 - 28 days,310
+2003,NHS Borders,29 days - 6 months,200
+2003,NHS Borders,> 6 months,50
+2003,NHS Dumfries and Galloway,< 1 day,50
+2003,NHS Dumfries and Galloway,1 - 7 days,310
+2003,NHS Dumfries and Galloway,8 - 28 days,240
+2003,NHS Dumfries and Galloway,29 days - 6 months,240
+2003,NHS Dumfries and Galloway,> 6 months,40
+2003,NHS Fife,< 1 day,80
+2003,NHS Fife,1 - 7 days,590
+2003,NHS Fife,8 - 28 days,580
+2003,NHS Fife,29 days - 6 months,460
+2003,NHS Fife,> 6 months,100
+2003,NHS Forth Valley,< 1 day,110
+2003,NHS Forth Valley,1 - 7 days,410
+2003,NHS Forth Valley,8 - 28 days,430
+2003,NHS Forth Valley,29 days - 6 months,410
+2003,NHS Forth Valley,> 6 months,90
+2003,NHS Grampian,< 1 day,150
+2003,NHS Grampian,1 - 7 days,940
+2003,NHS Grampian,8 - 28 days,870
+2003,NHS Grampian,29 days - 6 months,770
+2003,NHS Grampian,> 6 months,200
+2003,NHS Greater Glasgow and Clyde,< 1 day,420
+2003,NHS Greater Glasgow and Clyde,1 - 7 days,2760
+2003,NHS Greater Glasgow and Clyde,8 - 28 days,2730
+2003,NHS Greater Glasgow and Clyde,29 days - 6 months,2300
+2003,NHS Greater Glasgow and Clyde,> 6 months,570
+2003,NHS Highland,< 1 day,210
+2003,NHS Highland,1 - 7 days,1020
+2003,NHS Highland,8 - 28 days,800
+2003,NHS Highland,29 days - 6 months,530
+2003,NHS Highland,> 6 months,120
+2003,NHS Lanarkshire,< 1 day,200
+2003,NHS Lanarkshire,1 - 7 days,1060
+2003,NHS Lanarkshire,8 - 28 days,1060
+2003,NHS Lanarkshire,29 days - 6 months,820
+2003,NHS Lanarkshire,> 6 months,130
+2003,NHS Lothian,< 1 day,310
+2003,NHS Lothian,1 - 7 days,1530
+2003,NHS Lothian,8 - 28 days,1780
+2003,NHS Lothian,29 days - 6 months,1350
+2003,NHS Lothian,> 6 months,290
+2003,NHS Orkney,< 1 day,30
+2003,NHS Orkney,1 - 7 days,40
+2003,NHS Orkney,8 - 28 days,0
+2003,NHS Orkney,29 days - 6 months,10
+2003,NHS Orkney,> 6 months,0
+2003,NHS Shetland,< 1 day,40
+2003,NHS Shetland,1 - 7 days,40
+2003,NHS Shetland,8 - 28 days,0
+2003,NHS Shetland,29 days - 6 months,0
+2003,NHS Shetland,> 6 months,0
+2003,NHS Tayside,< 1 day,180
+2003,NHS Tayside,1 - 7 days,790
+2003,NHS Tayside,8 - 28 days,770
+2003,NHS Tayside,29 days - 6 months,710
+2003,NHS Tayside,> 6 months,190
+2003,NHS Western Isles,< 1 day,40
+2003,NHS Western Isles,1 - 7 days,130
+2003,NHS Western Isles,8 - 28 days,160
+2003,NHS Western Isles,29 days - 6 months,40
+2003,NHS Western Isles,> 6 months,10
+2003,State Hospitals Board for Scotland,< 1 day,0
+2003,State Hospitals Board for Scotland,1 - 7 days,0
+2003,State Hospitals Board for Scotland,8 - 28 days,0
+2003,State Hospitals Board for Scotland,29 days - 6 months,20
+2003,State Hospitals Board for Scotland,> 6 months,20
+2003,All of Scotland,< 1 day,2160
+2003,All of Scotland,1 - 7 days,10880
+2003,All of Scotland,8 - 28 days,10490
+2003,All of Scotland,29 days - 6 months,8470
+2003,All of Scotland,> 6 months,1910
+2004,The Golden Jubilee National Hospital,< 1 day,0
+2004,The Golden Jubilee National Hospital,1 - 7 days,0
+2004,The Golden Jubilee National Hospital,8 - 28 days,0
+2004,The Golden Jubilee National Hospital,29 days - 6 months,0
+2004,The Golden Jubilee National Hospital,> 6 months,0
+2004,NHS Ayrshire and Arran,< 1 day,260
+2004,NHS Ayrshire and Arran,1 - 7 days,1040
+2004,NHS Ayrshire and Arran,8 - 28 days,760
+2004,NHS Ayrshire and Arran,29 days - 6 months,590
+2004,NHS Ayrshire and Arran,> 6 months,100
+2004,NHS Borders,< 1 day,80
+2004,NHS Borders,1 - 7 days,340
+2004,NHS Borders,8 - 28 days,300
+2004,NHS Borders,29 days - 6 months,170
+2004,NHS Borders,> 6 months,50
+2004,NHS Dumfries and Galloway,< 1 day,60
+2004,NHS Dumfries and Galloway,1 - 7 days,300
+2004,NHS Dumfries and Galloway,8 - 28 days,240
+2004,NHS Dumfries and Galloway,29 days - 6 months,220
+2004,NHS Dumfries and Galloway,> 6 months,40
+2004,NHS Fife,< 1 day,80
+2004,NHS Fife,1 - 7 days,540
+2004,NHS Fife,8 - 28 days,510
+2004,NHS Fife,29 days - 6 months,490
+2004,NHS Fife,> 6 months,100
+2004,NHS Forth Valley,< 1 day,90
+2004,NHS Forth Valley,1 - 7 days,440
+2004,NHS Forth Valley,8 - 28 days,400
+2004,NHS Forth Valley,29 days - 6 months,390
+2004,NHS Forth Valley,> 6 months,90
+2004,NHS Grampian,< 1 day,140
+2004,NHS Grampian,1 - 7 days,860
+2004,NHS Grampian,8 - 28 days,770
+2004,NHS Grampian,29 days - 6 months,730
+2004,NHS Grampian,> 6 months,150
+2004,NHS Greater Glasgow and Clyde,< 1 day,390
+2004,NHS Greater Glasgow and Clyde,1 - 7 days,2630
+2004,NHS Greater Glasgow and Clyde,8 - 28 days,2680
+2004,NHS Greater Glasgow and Clyde,29 days - 6 months,2160
+2004,NHS Greater Glasgow and Clyde,> 6 months,490
+2004,NHS Highland,< 1 day,190
+2004,NHS Highland,1 - 7 days,940
+2004,NHS Highland,8 - 28 days,760
+2004,NHS Highland,29 days - 6 months,500
+2004,NHS Highland,> 6 months,120
+2004,NHS Lanarkshire,< 1 day,190
+2004,NHS Lanarkshire,1 - 7 days,1110
+2004,NHS Lanarkshire,8 - 28 days,1050
+2004,NHS Lanarkshire,29 days - 6 months,840
+2004,NHS Lanarkshire,> 6 months,160
+2004,NHS Lothian,< 1 day,310
+2004,NHS Lothian,1 - 7 days,1640
+2004,NHS Lothian,8 - 28 days,1670
+2004,NHS Lothian,29 days - 6 months,1300
+2004,NHS Lothian,> 6 months,330
+2004,NHS Orkney,< 1 day,20
+2004,NHS Orkney,1 - 7 days,50
+2004,NHS Orkney,8 - 28 days,0
+2004,NHS Orkney,29 days - 6 months,0
+2004,NHS Orkney,> 6 months,0
+2004,NHS Shetland,< 1 day,30
+2004,NHS Shetland,1 - 7 days,40
+2004,NHS Shetland,8 - 28 days,0
+2004,NHS Shetland,29 days - 6 months,0
+2004,NHS Shetland,> 6 months,0
+2004,NHS Tayside,< 1 day,140
+2004,NHS Tayside,1 - 7 days,720
+2004,NHS Tayside,8 - 28 days,650
+2004,NHS Tayside,29 days - 6 months,660
+2004,NHS Tayside,> 6 months,190
+2004,NHS Western Isles,< 1 day,40
+2004,NHS Western Isles,1 - 7 days,140
+2004,NHS Western Isles,8 - 28 days,110
+2004,NHS Western Isles,29 days - 6 months,40
+2004,NHS Western Isles,> 6 months,10
+2004,State Hospitals Board for Scotland,< 1 day,0
+2004,State Hospitals Board for Scotland,1 - 7 days,0
+2004,State Hospitals Board for Scotland,8 - 28 days,0
+2004,State Hospitals Board for Scotland,29 days - 6 months,0
+2004,State Hospitals Board for Scotland,> 6 months,20
+2004,All of Scotland,< 1 day,2020
+2004,All of Scotland,1 - 7 days,10780
+2004,All of Scotland,8 - 28 days,9900
+2004,All of Scotland,29 days - 6 months,8110
+2004,All of Scotland,> 6 months,1850
+2005,The Golden Jubilee National Hospital,< 1 day,0
+2005,The Golden Jubilee National Hospital,1 - 7 days,0
+2005,The Golden Jubilee National Hospital,8 - 28 days,0
+2005,The Golden Jubilee National Hospital,29 days - 6 months,0
+2005,The Golden Jubilee National Hospital,> 6 months,0
+2005,NHS Ayrshire and Arran,< 1 day,230
+2005,NHS Ayrshire and Arran,1 - 7 days,900
+2005,NHS Ayrshire and Arran,8 - 28 days,680
+2005,NHS Ayrshire and Arran,29 days - 6 months,600
+2005,NHS Ayrshire and Arran,> 6 months,110
+2005,NHS Borders,< 1 day,70
+2005,NHS Borders,1 - 7 days,250
+2005,NHS Borders,8 - 28 days,270
+2005,NHS Borders,29 days - 6 months,170
+2005,NHS Borders,> 6 months,40
+2005,NHS Dumfries and Galloway,< 1 day,60
+2005,NHS Dumfries and Galloway,1 - 7 days,270
+2005,NHS Dumfries and Galloway,8 - 28 days,190
+2005,NHS Dumfries and Galloway,29 days - 6 months,240
+2005,NHS Dumfries and Galloway,> 6 months,30
+2005,NHS Fife,< 1 day,60
+2005,NHS Fife,1 - 7 days,540
+2005,NHS Fife,8 - 28 days,590
+2005,NHS Fife,29 days - 6 months,500
+2005,NHS Fife,> 6 months,120
+2005,NHS Forth Valley,< 1 day,60
+2005,NHS Forth Valley,1 - 7 days,400
+2005,NHS Forth Valley,8 - 28 days,360
+2005,NHS Forth Valley,29 days - 6 months,330
+2005,NHS Forth Valley,> 6 months,80
+2005,NHS Grampian,< 1 day,110
+2005,NHS Grampian,1 - 7 days,770
+2005,NHS Grampian,8 - 28 days,670
+2005,NHS Grampian,29 days - 6 months,700
+2005,NHS Grampian,> 6 months,190
+2005,NHS Greater Glasgow and Clyde,< 1 day,380
+2005,NHS Greater Glasgow and Clyde,1 - 7 days,2770
+2005,NHS Greater Glasgow and Clyde,8 - 28 days,2590
+2005,NHS Greater Glasgow and Clyde,29 days - 6 months,2140
+2005,NHS Greater Glasgow and Clyde,> 6 months,470
+2005,NHS Highland,< 1 day,200
+2005,NHS Highland,1 - 7 days,840
+2005,NHS Highland,8 - 28 days,620
+2005,NHS Highland,29 days - 6 months,480
+2005,NHS Highland,> 6 months,120
+2005,NHS Lanarkshire,< 1 day,170
+2005,NHS Lanarkshire,1 - 7 days,1050
+2005,NHS Lanarkshire,8 - 28 days,950
+2005,NHS Lanarkshire,29 days - 6 months,760
+2005,NHS Lanarkshire,> 6 months,150
+2005,NHS Lothian,< 1 day,350
+2005,NHS Lothian,1 - 7 days,1730
+2005,NHS Lothian,8 - 28 days,1620
+2005,NHS Lothian,29 days - 6 months,1270
+2005,NHS Lothian,> 6 months,260
+2005,NHS Orkney,< 1 day,20
+2005,NHS Orkney,1 - 7 days,30
+2005,NHS Orkney,8 - 28 days,0
+2005,NHS Orkney,29 days - 6 months,0
+2005,NHS Orkney,> 6 months,0
+2005,NHS Shetland,< 1 day,20
+2005,NHS Shetland,1 - 7 days,40
+2005,NHS Shetland,8 - 28 days,0
+2005,NHS Shetland,29 days - 6 months,0
+2005,NHS Shetland,> 6 months,0
+2005,NHS Tayside,< 1 day,180
+2005,NHS Tayside,1 - 7 days,760
+2005,NHS Tayside,8 - 28 days,690
+2005,NHS Tayside,29 days - 6 months,600
+2005,NHS Tayside,> 6 months,180
+2005,NHS Western Isles,< 1 day,40
+2005,NHS Western Isles,1 - 7 days,130
+2005,NHS Western Isles,8 - 28 days,130
+2005,NHS Western Isles,29 days - 6 months,50
+2005,NHS Western Isles,> 6 months,20
+2005,State Hospitals Board for Scotland,< 1 day,0
+2005,State Hospitals Board for Scotland,1 - 7 days,0
+2005,State Hospitals Board for Scotland,8 - 28 days,0
+2005,State Hospitals Board for Scotland,29 days - 6 months,10
+2005,State Hospitals Board for Scotland,> 6 months,20
+2005,All of Scotland,< 1 day,1970
+2005,All of Scotland,1 - 7 days,10480
+2005,All of Scotland,8 - 28 days,9350
+2005,All of Scotland,29 days - 6 months,7850
+2005,All of Scotland,> 6 months,1780
+2006,The Golden Jubilee National Hospital,< 1 day,0
+2006,The Golden Jubilee National Hospital,1 - 7 days,0
+2006,The Golden Jubilee National Hospital,8 - 28 days,0
+2006,The Golden Jubilee National Hospital,29 days - 6 months,0
+2006,The Golden Jubilee National Hospital,> 6 months,0
+2006,NHS Ayrshire and Arran,< 1 day,260
+2006,NHS Ayrshire and Arran,1 - 7 days,850
+2006,NHS Ayrshire and Arran,8 - 28 days,580
+2006,NHS Ayrshire and Arran,29 days - 6 months,560
+2006,NHS Ayrshire and Arran,> 6 months,110
+2006,NHS Borders,< 1 day,170
+2006,NHS Borders,1 - 7 days,300
+2006,NHS Borders,8 - 28 days,290
+2006,NHS Borders,29 days - 6 months,200
+2006,NHS Borders,> 6 months,40
+2006,NHS Dumfries and Galloway,< 1 day,60
+2006,NHS Dumfries and Galloway,1 - 7 days,270
+2006,NHS Dumfries and Galloway,8 - 28 days,200
+2006,NHS Dumfries and Galloway,29 days - 6 months,200
+2006,NHS Dumfries and Galloway,> 6 months,60
+2006,NHS Fife,< 1 day,90
+2006,NHS Fife,1 - 7 days,650
+2006,NHS Fife,8 - 28 days,490
+2006,NHS Fife,29 days - 6 months,430
+2006,NHS Fife,> 6 months,90
+2006,NHS Forth Valley,< 1 day,70
+2006,NHS Forth Valley,1 - 7 days,440
+2006,NHS Forth Valley,8 - 28 days,310
+2006,NHS Forth Valley,29 days - 6 months,270
+2006,NHS Forth Valley,> 6 months,90
+2006,NHS Grampian,< 1 day,130
+2006,NHS Grampian,1 - 7 days,750
+2006,NHS Grampian,8 - 28 days,740
+2006,NHS Grampian,29 days - 6 months,680
+2006,NHS Grampian,> 6 months,200
+2006,NHS Greater Glasgow and Clyde,< 1 day,480
+2006,NHS Greater Glasgow and Clyde,1 - 7 days,3000
+2006,NHS Greater Glasgow and Clyde,8 - 28 days,2480
+2006,NHS Greater Glasgow and Clyde,29 days - 6 months,2020
+2006,NHS Greater Glasgow and Clyde,> 6 months,440
+2006,NHS Highland,< 1 day,190
+2006,NHS Highland,1 - 7 days,900
+2006,NHS Highland,8 - 28 days,590
+2006,NHS Highland,29 days - 6 months,450
+2006,NHS Highland,> 6 months,130
+2006,NHS Lanarkshire,< 1 day,190
+2006,NHS Lanarkshire,1 - 7 days,1130
+2006,NHS Lanarkshire,8 - 28 days,940
+2006,NHS Lanarkshire,29 days - 6 months,770
+2006,NHS Lanarkshire,> 6 months,150
+2006,NHS Lothian,< 1 day,380
+2006,NHS Lothian,1 - 7 days,1680
+2006,NHS Lothian,8 - 28 days,1500
+2006,NHS Lothian,29 days - 6 months,1130
+2006,NHS Lothian,> 6 months,240
+2006,NHS Orkney,< 1 day,20
+2006,NHS Orkney,1 - 7 days,20
+2006,NHS Orkney,8 - 28 days,0
+2006,NHS Orkney,29 days - 6 months,0
+2006,NHS Orkney,> 6 months,0
+2006,NHS Shetland,< 1 day,20
+2006,NHS Shetland,1 - 7 days,50
+2006,NHS Shetland,8 - 28 days,0
+2006,NHS Shetland,29 days - 6 months,0
+2006,NHS Shetland,> 6 months,0
+2006,NHS Tayside,< 1 day,160
+2006,NHS Tayside,1 - 7 days,650
+2006,NHS Tayside,8 - 28 days,640
+2006,NHS Tayside,29 days - 6 months,680
+2006,NHS Tayside,> 6 months,140
+2006,NHS Western Isles,< 1 day,40
+2006,NHS Western Isles,1 - 7 days,130
+2006,NHS Western Isles,8 - 28 days,110
+2006,NHS Western Isles,29 days - 6 months,40
+2006,NHS Western Isles,> 6 months,10
+2006,State Hospitals Board for Scotland,< 1 day,0
+2006,State Hospitals Board for Scotland,1 - 7 days,0
+2006,State Hospitals Board for Scotland,8 - 28 days,0
+2006,State Hospitals Board for Scotland,29 days - 6 months,0
+2006,State Hospitals Board for Scotland,> 6 months,20
+2006,All of Scotland,< 1 day,2270
+2006,All of Scotland,1 - 7 days,10810
+2006,All of Scotland,8 - 28 days,8880
+2006,All of Scotland,29 days - 6 months,7440
+2006,All of Scotland,> 6 months,1720
+2007,The Golden Jubilee National Hospital,< 1 day,0
+2007,The Golden Jubilee National Hospital,1 - 7 days,0
+2007,The Golden Jubilee National Hospital,8 - 28 days,0
+2007,The Golden Jubilee National Hospital,29 days - 6 months,0
+2007,The Golden Jubilee National Hospital,> 6 months,0
+2007,NHS Ayrshire and Arran,< 1 day,300
+2007,NHS Ayrshire and Arran,1 - 7 days,850
+2007,NHS Ayrshire and Arran,8 - 28 days,570
+2007,NHS Ayrshire and Arran,29 days - 6 months,560
+2007,NHS Ayrshire and Arran,> 6 months,100
+2007,NHS Borders,< 1 day,110
+2007,NHS Borders,1 - 7 days,280
+2007,NHS Borders,8 - 28 days,260
+2007,NHS Borders,29 days - 6 months,220
+2007,NHS Borders,> 6 months,40
+2007,NHS Dumfries and Galloway,< 1 day,80
+2007,NHS Dumfries and Galloway,1 - 7 days,290
+2007,NHS Dumfries and Galloway,8 - 28 days,200
+2007,NHS Dumfries and Galloway,29 days - 6 months,210
+2007,NHS Dumfries and Galloway,> 6 months,50
+2007,NHS Fife,< 1 day,110
+2007,NHS Fife,1 - 7 days,690
+2007,NHS Fife,8 - 28 days,470
+2007,NHS Fife,29 days - 6 months,400
+2007,NHS Fife,> 6 months,110
+2007,NHS Forth Valley,< 1 day,80
+2007,NHS Forth Valley,1 - 7 days,510
+2007,NHS Forth Valley,8 - 28 days,280
+2007,NHS Forth Valley,29 days - 6 months,240
+2007,NHS Forth Valley,> 6 months,80
+2007,NHS Grampian,< 1 day,140
+2007,NHS Grampian,1 - 7 days,780
+2007,NHS Grampian,8 - 28 days,750
+2007,NHS Grampian,29 days - 6 months,700
+2007,NHS Grampian,> 6 months,160
+2007,NHS Greater Glasgow and Clyde,< 1 day,560
+2007,NHS Greater Glasgow and Clyde,1 - 7 days,3150
+2007,NHS Greater Glasgow and Clyde,8 - 28 days,2550
+2007,NHS Greater Glasgow and Clyde,29 days - 6 months,1880
+2007,NHS Greater Glasgow and Clyde,> 6 months,480
+2007,NHS Highland,< 1 day,200
+2007,NHS Highland,1 - 7 days,940
+2007,NHS Highland,8 - 28 days,550
+2007,NHS Highland,29 days - 6 months,500
+2007,NHS Highland,> 6 months,120
+2007,NHS Lanarkshire,< 1 day,220
+2007,NHS Lanarkshire,1 - 7 days,1260
+2007,NHS Lanarkshire,8 - 28 days,930
+2007,NHS Lanarkshire,29 days - 6 months,710
+2007,NHS Lanarkshire,> 6 months,140
+2007,NHS Lothian,< 1 day,440
+2007,NHS Lothian,1 - 7 days,1830
+2007,NHS Lothian,8 - 28 days,1360
+2007,NHS Lothian,29 days - 6 months,1040
+2007,NHS Lothian,> 6 months,250
+2007,NHS Orkney,< 1 day,20
+2007,NHS Orkney,1 - 7 days,30
+2007,NHS Orkney,8 - 28 days,0
+2007,NHS Orkney,29 days - 6 months,0
+2007,NHS Orkney,> 6 months,0
+2007,NHS Shetland,< 1 day,30
+2007,NHS Shetland,1 - 7 days,40
+2007,NHS Shetland,8 - 28 days,0
+2007,NHS Shetland,29 days - 6 months,0
+2007,NHS Shetland,> 6 months,0
+2007,NHS Tayside,< 1 day,200
+2007,NHS Tayside,1 - 7 days,820
+2007,NHS Tayside,8 - 28 days,660
+2007,NHS Tayside,29 days - 6 months,680
+2007,NHS Tayside,> 6 months,110
+2007,NHS Western Isles,< 1 day,30
+2007,NHS Western Isles,1 - 7 days,100
+2007,NHS Western Isles,8 - 28 days,70
+2007,NHS Western Isles,29 days - 6 months,30
+2007,NHS Western Isles,> 6 months,10
+2007,State Hospitals Board for Scotland,< 1 day,0
+2007,State Hospitals Board for Scotland,1 - 7 days,0
+2007,State Hospitals Board for Scotland,8 - 28 days,0
+2007,State Hospitals Board for Scotland,29 days - 6 months,10
+2007,State Hospitals Board for Scotland,> 6 months,20
+2007,All of Scotland,< 1 day,2530
+2007,All of Scotland,1 - 7 days,11580
+2007,All of Scotland,8 - 28 days,8650
+2007,All of Scotland,29 days - 6 months,7170
+2007,All of Scotland,> 6 months,1660
+2008,The Golden Jubilee National Hospital,< 1 day,0
+2008,The Golden Jubilee National Hospital,1 - 7 days,0
+2008,The Golden Jubilee National Hospital,8 - 28 days,0
+2008,The Golden Jubilee National Hospital,29 days - 6 months,0
+2008,The Golden Jubilee National Hospital,> 6 months,0
+2008,NHS Ayrshire and Arran,< 1 day,260
+2008,NHS Ayrshire and Arran,1 - 7 days,800
+2008,NHS Ayrshire and Arran,8 - 28 days,580
+2008,NHS Ayrshire and Arran,29 days - 6 months,500
+2008,NHS Ayrshire and Arran,> 6 months,100
+2008,NHS Borders,< 1 day,80
+2008,NHS Borders,1 - 7 days,280
+2008,NHS Borders,8 - 28 days,270
+2008,NHS Borders,29 days - 6 months,220
+2008,NHS Borders,> 6 months,40
+2008,NHS Dumfries and Galloway,< 1 day,80
+2008,NHS Dumfries and Galloway,1 - 7 days,290
+2008,NHS Dumfries and Galloway,8 - 28 days,210
+2008,NHS Dumfries and Galloway,29 days - 6 months,180
+2008,NHS Dumfries and Galloway,> 6 months,40
+2008,NHS Fife,< 1 day,100
+2008,NHS Fife,1 - 7 days,660
+2008,NHS Fife,8 - 28 days,520
+2008,NHS Fife,29 days - 6 months,400
+2008,NHS Fife,> 6 months,80
+2008,NHS Forth Valley,< 1 day,60
+2008,NHS Forth Valley,1 - 7 days,540
+2008,NHS Forth Valley,8 - 28 days,350
+2008,NHS Forth Valley,29 days - 6 months,270
+2008,NHS Forth Valley,> 6 months,70
+2008,NHS Grampian,< 1 day,160
+2008,NHS Grampian,1 - 7 days,830
+2008,NHS Grampian,8 - 28 days,740
+2008,NHS Grampian,29 days - 6 months,670
+2008,NHS Grampian,> 6 months,160
+2008,NHS Greater Glasgow and Clyde,< 1 day,640
+2008,NHS Greater Glasgow and Clyde,1 - 7 days,3390
+2008,NHS Greater Glasgow and Clyde,8 - 28 days,2600
+2008,NHS Greater Glasgow and Clyde,29 days - 6 months,1920
+2008,NHS Greater Glasgow and Clyde,> 6 months,430
+2008,NHS Highland,< 1 day,210
+2008,NHS Highland,1 - 7 days,940
+2008,NHS Highland,8 - 28 days,580
+2008,NHS Highland,29 days - 6 months,460
+2008,NHS Highland,> 6 months,110
+2008,NHS Lanarkshire,< 1 day,220
+2008,NHS Lanarkshire,1 - 7 days,1290
+2008,NHS Lanarkshire,8 - 28 days,1000
+2008,NHS Lanarkshire,29 days - 6 months,720
+2008,NHS Lanarkshire,> 6 months,130
+2008,NHS Lothian,< 1 day,410
+2008,NHS Lothian,1 - 7 days,1580
+2008,NHS Lothian,8 - 28 days,1340
+2008,NHS Lothian,29 days - 6 months,1100
+2008,NHS Lothian,> 6 months,230
+2008,NHS Orkney,< 1 day,20
+2008,NHS Orkney,1 - 7 days,30
+2008,NHS Orkney,8 - 28 days,0
+2008,NHS Orkney,29 days - 6 months,0
+2008,NHS Orkney,> 6 months,0
+2008,NHS Shetland,< 1 day,20
+2008,NHS Shetland,1 - 7 days,30
+2008,NHS Shetland,8 - 28 days,0
+2008,NHS Shetland,29 days - 6 months,0
+2008,NHS Shetland,> 6 months,0
+2008,NHS Tayside,< 1 day,150
+2008,NHS Tayside,1 - 7 days,860
+2008,NHS Tayside,8 - 28 days,710
+2008,NHS Tayside,29 days - 6 months,680
+2008,NHS Tayside,> 6 months,120
+2008,NHS Western Isles,< 1 day,20
+2008,NHS Western Isles,1 - 7 days,100
+2008,NHS Western Isles,8 - 28 days,50
+2008,NHS Western Isles,29 days - 6 months,40
+2008,NHS Western Isles,> 6 months,10
+2008,State Hospitals Board for Scotland,< 1 day,0
+2008,State Hospitals Board for Scotland,1 - 7 days,0
+2008,State Hospitals Board for Scotland,8 - 28 days,0
+2008,State Hospitals Board for Scotland,29 days - 6 months,0
+2008,State Hospitals Board for Scotland,> 6 months,20
+2008,All of Scotland,< 1 day,2440
+2008,All of Scotland,1 - 7 days,11610
+2008,All of Scotland,8 - 28 days,8950
+2008,All of Scotland,29 days - 6 months,7180
+2008,All of Scotland,> 6 months,1540
+2009,The Golden Jubilee National Hospital,< 1 day,0
+2009,The Golden Jubilee National Hospital,1 - 7 days,0
+2009,The Golden Jubilee National Hospital,8 - 28 days,0
+2009,The Golden Jubilee National Hospital,29 days - 6 months,0
+2009,The Golden Jubilee National Hospital,> 6 months,0
+2009,NHS Ayrshire and Arran,< 1 day,260
+2009,NHS Ayrshire and Arran,1 - 7 days,920
+2009,NHS Ayrshire and Arran,8 - 28 days,550
+2009,NHS Ayrshire and Arran,29 days - 6 months,460
+2009,NHS Ayrshire and Arran,> 6 months,60
+2009,NHS Borders,< 1 day,40
+2009,NHS Borders,1 - 7 days,270
+2009,NHS Borders,8 - 28 days,220
+2009,NHS Borders,29 days - 6 months,180
+2009,NHS Borders,> 6 months,30
+2009,NHS Dumfries and Galloway,< 1 day,60
+2009,NHS Dumfries and Galloway,1 - 7 days,280
+2009,NHS Dumfries and Galloway,8 - 28 days,220
+2009,NHS Dumfries and Galloway,29 days - 6 months,200
+2009,NHS Dumfries and Galloway,> 6 months,50
+2009,NHS Fife,< 1 day,100
+2009,NHS Fife,1 - 7 days,680
+2009,NHS Fife,8 - 28 days,520
+2009,NHS Fife,29 days - 6 months,370
+2009,NHS Fife,> 6 months,90
+2009,NHS Forth Valley,< 1 day,90
+2009,NHS Forth Valley,1 - 7 days,560
+2009,NHS Forth Valley,8 - 28 days,260
+2009,NHS Forth Valley,29 days - 6 months,240
+2009,NHS Forth Valley,> 6 months,70
+2009,NHS Grampian,< 1 day,170
+2009,NHS Grampian,1 - 7 days,840
+2009,NHS Grampian,8 - 28 days,730
+2009,NHS Grampian,29 days - 6 months,700
+2009,NHS Grampian,> 6 months,100
+2009,NHS Greater Glasgow and Clyde,< 1 day,620
+2009,NHS Greater Glasgow and Clyde,1 - 7 days,3140
+2009,NHS Greater Glasgow and Clyde,8 - 28 days,2300
+2009,NHS Greater Glasgow and Clyde,29 days - 6 months,1670
+2009,NHS Greater Glasgow and Clyde,> 6 months,370
+2009,NHS Highland,< 1 day,170
+2009,NHS Highland,1 - 7 days,780
+2009,NHS Highland,8 - 28 days,480
+2009,NHS Highland,29 days - 6 months,430
+2009,NHS Highland,> 6 months,110
+2009,NHS Lanarkshire,< 1 day,160
+2009,NHS Lanarkshire,1 - 7 days,1090
+2009,NHS Lanarkshire,8 - 28 days,1030
+2009,NHS Lanarkshire,29 days - 6 months,670
+2009,NHS Lanarkshire,> 6 months,110
+2009,NHS Lothian,< 1 day,390
+2009,NHS Lothian,1 - 7 days,1460
+2009,NHS Lothian,8 - 28 days,1320
+2009,NHS Lothian,29 days - 6 months,1050
+2009,NHS Lothian,> 6 months,200
+2009,NHS Orkney,< 1 day,30
+2009,NHS Orkney,1 - 7 days,20
+2009,NHS Orkney,8 - 28 days,0
+2009,NHS Orkney,29 days - 6 months,0
+2009,NHS Orkney,> 6 months,0
+2009,NHS Shetland,< 1 day,20
+2009,NHS Shetland,1 - 7 days,20
+2009,NHS Shetland,8 - 28 days,0
+2009,NHS Shetland,29 days - 6 months,0
+2009,NHS Shetland,> 6 months,0
+2009,NHS Tayside,< 1 day,170
+2009,NHS Tayside,1 - 7 days,830
+2009,NHS Tayside,8 - 28 days,670
+2009,NHS Tayside,29 days - 6 months,670
+2009,NHS Tayside,> 6 months,120
+2009,NHS Western Isles,< 1 day,20
+2009,NHS Western Isles,1 - 7 days,80
+2009,NHS Western Isles,8 - 28 days,40
+2009,NHS Western Isles,29 days - 6 months,20
+2009,NHS Western Isles,> 6 months,10
+2009,State Hospitals Board for Scotland,< 1 day,0
+2009,State Hospitals Board for Scotland,1 - 7 days,0
+2009,State Hospitals Board for Scotland,8 - 28 days,0
+2009,State Hospitals Board for Scotland,29 days - 6 months,0
+2009,State Hospitals Board for Scotland,> 6 months,10
+2009,All of Scotland,< 1 day,2300
+2009,All of Scotland,1 - 7 days,10980
+2009,All of Scotland,8 - 28 days,8350
+2009,All of Scotland,29 days - 6 months,6680
+2009,All of Scotland,> 6 months,1340
+2010,The Golden Jubilee National Hospital,< 1 day,0
+2010,The Golden Jubilee National Hospital,1 - 7 days,0
+2010,The Golden Jubilee National Hospital,8 - 28 days,0
+2010,The Golden Jubilee National Hospital,29 days - 6 months,0
+2010,The Golden Jubilee National Hospital,> 6 months,0
+2010,NHS Ayrshire and Arran,< 1 day,230
+2010,NHS Ayrshire and Arran,1 - 7 days,940
+2010,NHS Ayrshire and Arran,8 - 28 days,570
+2010,NHS Ayrshire and Arran,29 days - 6 months,470
+2010,NHS Ayrshire and Arran,> 6 months,70
+2010,NHS Borders,< 1 day,60
+2010,NHS Borders,1 - 7 days,260
+2010,NHS Borders,8 - 28 days,240
+2010,NHS Borders,29 days - 6 months,180
+2010,NHS Borders,> 6 months,40
+2010,NHS Dumfries and Galloway,< 1 day,90
+2010,NHS Dumfries and Galloway,1 - 7 days,390
+2010,NHS Dumfries and Galloway,8 - 28 days,250
+2010,NHS Dumfries and Galloway,29 days - 6 months,190
+2010,NHS Dumfries and Galloway,> 6 months,30
+2010,NHS Fife,< 1 day,120
+2010,NHS Fife,1 - 7 days,560
+2010,NHS Fife,8 - 28 days,460
+2010,NHS Fife,29 days - 6 months,410
+2010,NHS Fife,> 6 months,90
+2010,NHS Forth Valley,< 1 day,60
+2010,NHS Forth Valley,1 - 7 days,530
+2010,NHS Forth Valley,8 - 28 days,290
+2010,NHS Forth Valley,29 days - 6 months,200
+2010,NHS Forth Valley,> 6 months,70
+2010,NHS Grampian,< 1 day,150
+2010,NHS Grampian,1 - 7 days,890
+2010,NHS Grampian,8 - 28 days,770
+2010,NHS Grampian,29 days - 6 months,710
+2010,NHS Grampian,> 6 months,110
+2010,NHS Greater Glasgow and Clyde,< 1 day,660
+2010,NHS Greater Glasgow and Clyde,1 - 7 days,2940
+2010,NHS Greater Glasgow and Clyde,8 - 28 days,2040
+2010,NHS Greater Glasgow and Clyde,29 days - 6 months,1550
+2010,NHS Greater Glasgow and Clyde,> 6 months,400
+2010,NHS Highland,< 1 day,180
+2010,NHS Highland,1 - 7 days,760
+2010,NHS Highland,8 - 28 days,520
+2010,NHS Highland,29 days - 6 months,420
+2010,NHS Highland,> 6 months,120
+2010,NHS Lanarkshire,< 1 day,260
+2010,NHS Lanarkshire,1 - 7 days,1180
+2010,NHS Lanarkshire,8 - 28 days,1050
+2010,NHS Lanarkshire,29 days - 6 months,680
+2010,NHS Lanarkshire,> 6 months,120
+2010,NHS Lothian,< 1 day,380
+2010,NHS Lothian,1 - 7 days,1510
+2010,NHS Lothian,8 - 28 days,1270
+2010,NHS Lothian,29 days - 6 months,980
+2010,NHS Lothian,> 6 months,220
+2010,NHS Orkney,< 1 day,20
+2010,NHS Orkney,1 - 7 days,40
+2010,NHS Orkney,8 - 28 days,0
+2010,NHS Orkney,29 days - 6 months,0
+2010,NHS Orkney,> 6 months,0
+2010,NHS Shetland,< 1 day,20
+2010,NHS Shetland,1 - 7 days,50
+2010,NHS Shetland,8 - 28 days,0
+2010,NHS Shetland,29 days - 6 months,0
+2010,NHS Shetland,> 6 months,0
+2010,NHS Tayside,< 1 day,140
+2010,NHS Tayside,1 - 7 days,720
+2010,NHS Tayside,8 - 28 days,620
+2010,NHS Tayside,29 days - 6 months,600
+2010,NHS Tayside,> 6 months,120
+2010,NHS Western Isles,< 1 day,20
+2010,NHS Western Isles,1 - 7 days,60
+2010,NHS Western Isles,8 - 28 days,30
+2010,NHS Western Isles,29 days - 6 months,20
+2010,NHS Western Isles,> 6 months,10
+2010,State Hospitals Board for Scotland,< 1 day,0
+2010,State Hospitals Board for Scotland,1 - 7 days,0
+2010,State Hospitals Board for Scotland,8 - 28 days,0
+2010,State Hospitals Board for Scotland,29 days - 6 months,0
+2010,State Hospitals Board for Scotland,> 6 months,10
+2010,All of Scotland,< 1 day,2390
+2010,All of Scotland,1 - 7 days,10810
+2010,All of Scotland,8 - 28 days,8110
+2010,All of Scotland,29 days - 6 months,6400
+2010,All of Scotland,> 6 months,1420
+2011,The Golden Jubilee National Hospital,< 1 day,0
+2011,The Golden Jubilee National Hospital,1 - 7 days,0
+2011,The Golden Jubilee National Hospital,8 - 28 days,0
+2011,The Golden Jubilee National Hospital,29 days - 6 months,0
+2011,The Golden Jubilee National Hospital,> 6 months,0
+2011,NHS Ayrshire and Arran,< 1 day,230
+2011,NHS Ayrshire and Arran,1 - 7 days,860
+2011,NHS Ayrshire and Arran,8 - 28 days,590
+2011,NHS Ayrshire and Arran,29 days - 6 months,470
+2011,NHS Ayrshire and Arran,> 6 months,60
+2011,NHS Borders,< 1 day,80
+2011,NHS Borders,1 - 7 days,250
+2011,NHS Borders,8 - 28 days,190
+2011,NHS Borders,29 days - 6 months,160
+2011,NHS Borders,> 6 months,30
+2011,NHS Dumfries and Galloway,< 1 day,210
+2011,NHS Dumfries and Galloway,1 - 7 days,370
+2011,NHS Dumfries and Galloway,8 - 28 days,250
+2011,NHS Dumfries and Galloway,29 days - 6 months,160
+2011,NHS Dumfries and Galloway,> 6 months,30
+2011,NHS Fife,< 1 day,130
+2011,NHS Fife,1 - 7 days,570
+2011,NHS Fife,8 - 28 days,560
+2011,NHS Fife,29 days - 6 months,380
+2011,NHS Fife,> 6 months,90
+2011,NHS Forth Valley,< 1 day,80
+2011,NHS Forth Valley,1 - 7 days,500
+2011,NHS Forth Valley,8 - 28 days,280
+2011,NHS Forth Valley,29 days - 6 months,220
+2011,NHS Forth Valley,> 6 months,60
+2011,NHS Grampian,< 1 day,170
+2011,NHS Grampian,1 - 7 days,1020
+2011,NHS Grampian,8 - 28 days,780
+2011,NHS Grampian,29 days - 6 months,640
+2011,NHS Grampian,> 6 months,110
+2011,NHS Greater Glasgow and Clyde,< 1 day,760
+2011,NHS Greater Glasgow and Clyde,1 - 7 days,2970
+2011,NHS Greater Glasgow and Clyde,8 - 28 days,1950
+2011,NHS Greater Glasgow and Clyde,29 days - 6 months,1700
+2011,NHS Greater Glasgow and Clyde,> 6 months,410
+2011,NHS Highland,< 1 day,160
+2011,NHS Highland,1 - 7 days,770
+2011,NHS Highland,8 - 28 days,480
+2011,NHS Highland,29 days - 6 months,420
+2011,NHS Highland,> 6 months,80
+2011,NHS Lanarkshire,< 1 day,300
+2011,NHS Lanarkshire,1 - 7 days,1340
+2011,NHS Lanarkshire,8 - 28 days,1080
+2011,NHS Lanarkshire,29 days - 6 months,530
+2011,NHS Lanarkshire,> 6 months,70
+2011,NHS Lothian,< 1 day,440
+2011,NHS Lothian,1 - 7 days,1700
+2011,NHS Lothian,8 - 28 days,1370
+2011,NHS Lothian,29 days - 6 months,920
+2011,NHS Lothian,> 6 months,220
+2011,NHS Orkney,< 1 day,30
+2011,NHS Orkney,1 - 7 days,30
+2011,NHS Orkney,8 - 28 days,0
+2011,NHS Orkney,29 days - 6 months,0
+2011,NHS Orkney,> 6 months,0
+2011,NHS Shetland,< 1 day,30
+2011,NHS Shetland,1 - 7 days,50
+2011,NHS Shetland,8 - 28 days,0
+2011,NHS Shetland,29 days - 6 months,0
+2011,NHS Shetland,> 6 months,0
+2011,NHS Tayside,< 1 day,110
+2011,NHS Tayside,1 - 7 days,720
+2011,NHS Tayside,8 - 28 days,620
+2011,NHS Tayside,29 days - 6 months,600
+2011,NHS Tayside,> 6 months,130
+2011,NHS Western Isles,< 1 day,10
+2011,NHS Western Isles,1 - 7 days,60
+2011,NHS Western Isles,8 - 28 days,30
+2011,NHS Western Isles,29 days - 6 months,30
+2011,NHS Western Isles,> 6 months,10
+2011,State Hospitals Board for Scotland,< 1 day,0
+2011,State Hospitals Board for Scotland,1 - 7 days,0
+2011,State Hospitals Board for Scotland,8 - 28 days,0
+2011,State Hospitals Board for Scotland,29 days - 6 months,0
+2011,State Hospitals Board for Scotland,> 6 months,0
+2011,All of Scotland,< 1 day,2730
+2011,All of Scotland,1 - 7 days,11210
+2011,All of Scotland,8 - 28 days,8180
+2011,All of Scotland,29 days - 6 months,6240
+2011,All of Scotland,> 6 months,1300
+2012,The Golden Jubilee National Hospital,< 1 day,0
+2012,The Golden Jubilee National Hospital,1 - 7 days,0
+2012,The Golden Jubilee National Hospital,8 - 28 days,0
+2012,The Golden Jubilee National Hospital,29 days - 6 months,0
+2012,The Golden Jubilee National Hospital,> 6 months,0
+2012,NHS Ayrshire and Arran,< 1 day,200
+2012,NHS Ayrshire and Arran,1 - 7 days,780
+2012,NHS Ayrshire and Arran,8 - 28 days,540
+2012,NHS Ayrshire and Arran,29 days - 6 months,400
+2012,NHS Ayrshire and Arran,> 6 months,60
+2012,NHS Borders,< 1 day,80
+2012,NHS Borders,1 - 7 days,240
+2012,NHS Borders,8 - 28 days,190
+2012,NHS Borders,29 days - 6 months,150
+2012,NHS Borders,> 6 months,30
+2012,NHS Dumfries and Galloway,< 1 day,210
+2012,NHS Dumfries and Galloway,1 - 7 days,370
+2012,NHS Dumfries and Galloway,8 - 28 days,230
+2012,NHS Dumfries and Galloway,29 days - 6 months,140
+2012,NHS Dumfries and Galloway,> 6 months,30
+2012,NHS Fife,< 1 day,230
+2012,NHS Fife,1 - 7 days,610
+2012,NHS Fife,8 - 28 days,540
+2012,NHS Fife,29 days - 6 months,420
+2012,NHS Fife,> 6 months,80
+2012,NHS Forth Valley,< 1 day,90
+2012,NHS Forth Valley,1 - 7 days,510
+2012,NHS Forth Valley,8 - 28 days,330
+2012,NHS Forth Valley,29 days - 6 months,250
+2012,NHS Forth Valley,> 6 months,60
+2012,NHS Grampian,< 1 day,180
+2012,NHS Grampian,1 - 7 days,980
+2012,NHS Grampian,8 - 28 days,740
+2012,NHS Grampian,29 days - 6 months,680
+2012,NHS Grampian,> 6 months,120
+2012,NHS Greater Glasgow and Clyde,< 1 day,680
+2012,NHS Greater Glasgow and Clyde,1 - 7 days,2810
+2012,NHS Greater Glasgow and Clyde,8 - 28 days,2120
+2012,NHS Greater Glasgow and Clyde,29 days - 6 months,1540
+2012,NHS Greater Glasgow and Clyde,> 6 months,350
+2012,NHS Highland,< 1 day,140
+2012,NHS Highland,1 - 7 days,710
+2012,NHS Highland,8 - 28 days,520
+2012,NHS Highland,29 days - 6 months,420
+2012,NHS Highland,> 6 months,80
+2012,NHS Lanarkshire,< 1 day,290
+2012,NHS Lanarkshire,1 - 7 days,1240
+2012,NHS Lanarkshire,8 - 28 days,1100
+2012,NHS Lanarkshire,29 days - 6 months,610
+2012,NHS Lanarkshire,> 6 months,100
+2012,NHS Lothian,< 1 day,460
+2012,NHS Lothian,1 - 7 days,1720
+2012,NHS Lothian,8 - 28 days,1330
+2012,NHS Lothian,29 days - 6 months,960
+2012,NHS Lothian,> 6 months,190
+2012,NHS Orkney,< 1 day,20
+2012,NHS Orkney,1 - 7 days,40
+2012,NHS Orkney,8 - 28 days,0
+2012,NHS Orkney,29 days - 6 months,0
+2012,NHS Orkney,> 6 months,0
+2012,NHS Shetland,< 1 day,20
+2012,NHS Shetland,1 - 7 days,60
+2012,NHS Shetland,8 - 28 days,0
+2012,NHS Shetland,29 days - 6 months,0
+2012,NHS Shetland,> 6 months,0
+2012,NHS Tayside,< 1 day,120
+2012,NHS Tayside,1 - 7 days,690
+2012,NHS Tayside,8 - 28 days,660
+2012,NHS Tayside,29 days - 6 months,660
+2012,NHS Tayside,> 6 months,90
+2012,NHS Western Isles,< 1 day,20
+2012,NHS Western Isles,1 - 7 days,40
+2012,NHS Western Isles,8 - 28 days,40
+2012,NHS Western Isles,29 days - 6 months,30
+2012,NHS Western Isles,> 6 months,0
+2012,State Hospitals Board for Scotland,< 1 day,0
+2012,State Hospitals Board for Scotland,1 - 7 days,0
+2012,State Hospitals Board for Scotland,8 - 28 days,0
+2012,State Hospitals Board for Scotland,29 days - 6 months,0
+2012,State Hospitals Board for Scotland,> 6 months,10
+2012,All of Scotland,< 1 day,2730
+2012,All of Scotland,1 - 7 days,10800
+2012,All of Scotland,8 - 28 days,8350
+2012,All of Scotland,29 days - 6 months,6270
+2012,All of Scotland,> 6 months,1210
+2013,The Golden Jubilee National Hospital,< 1 day,0
+2013,The Golden Jubilee National Hospital,1 - 7 days,0
+2013,The Golden Jubilee National Hospital,8 - 28 days,0
+2013,The Golden Jubilee National Hospital,29 days - 6 months,0
+2013,The Golden Jubilee National Hospital,> 6 months,0
+2013,NHS Ayrshire and Arran,< 1 day,160
+2013,NHS Ayrshire and Arran,1 - 7 days,700
+2013,NHS Ayrshire and Arran,8 - 28 days,570
+2013,NHS Ayrshire and Arran,29 days - 6 months,380
+2013,NHS Ayrshire and Arran,> 6 months,50
+2013,NHS Borders,< 1 day,70
+2013,NHS Borders,1 - 7 days,250
+2013,NHS Borders,8 - 28 days,220
+2013,NHS Borders,29 days - 6 months,120
+2013,NHS Borders,> 6 months,20
+2013,NHS Dumfries and Galloway,< 1 day,330
+2013,NHS Dumfries and Galloway,1 - 7 days,400
+2013,NHS Dumfries and Galloway,8 - 28 days,230
+2013,NHS Dumfries and Galloway,29 days - 6 months,160
+2013,NHS Dumfries and Galloway,> 6 months,20
+2013,NHS Fife,< 1 day,280
+2013,NHS Fife,1 - 7 days,690
+2013,NHS Fife,8 - 28 days,550
+2013,NHS Fife,29 days - 6 months,440
+2013,NHS Fife,> 6 months,70
+2013,NHS Forth Valley,< 1 day,110
+2013,NHS Forth Valley,1 - 7 days,560
+2013,NHS Forth Valley,8 - 28 days,320
+2013,NHS Forth Valley,29 days - 6 months,250
+2013,NHS Forth Valley,> 6 months,60
+2013,NHS Grampian,< 1 day,220
+2013,NHS Grampian,1 - 7 days,990
+2013,NHS Grampian,8 - 28 days,730
+2013,NHS Grampian,29 days - 6 months,700
+2013,NHS Grampian,> 6 months,100
+2013,NHS Greater Glasgow and Clyde,< 1 day,740
+2013,NHS Greater Glasgow and Clyde,1 - 7 days,2970
+2013,NHS Greater Glasgow and Clyde,8 - 28 days,2270
+2013,NHS Greater Glasgow and Clyde,29 days - 6 months,1550
+2013,NHS Greater Glasgow and Clyde,> 6 months,290
+2013,NHS Highland,< 1 day,160
+2013,NHS Highland,1 - 7 days,710
+2013,NHS Highland,8 - 28 days,540
+2013,NHS Highland,29 days - 6 months,370
+2013,NHS Highland,> 6 months,70
+2013,NHS Lanarkshire,< 1 day,280
+2013,NHS Lanarkshire,1 - 7 days,1180
+2013,NHS Lanarkshire,8 - 28 days,960
+2013,NHS Lanarkshire,29 days - 6 months,570
+2013,NHS Lanarkshire,> 6 months,70
+2013,NHS Lothian,< 1 day,450
+2013,NHS Lothian,1 - 7 days,1630
+2013,NHS Lothian,8 - 28 days,1220
+2013,NHS Lothian,29 days - 6 months,970
+2013,NHS Lothian,> 6 months,220
+2013,NHS Orkney,< 1 day,20
+2013,NHS Orkney,1 - 7 days,30
+2013,NHS Orkney,8 - 28 days,0
+2013,NHS Orkney,29 days - 6 months,0
+2013,NHS Orkney,> 6 months,0
+2013,NHS Shetland,< 1 day,20
+2013,NHS Shetland,1 - 7 days,60
+2013,NHS Shetland,8 - 28 days,10
+2013,NHS Shetland,29 days - 6 months,0
+2013,NHS Shetland,> 6 months,0
+2013,NHS Tayside,< 1 day,210
+2013,NHS Tayside,1 - 7 days,810
+2013,NHS Tayside,8 - 28 days,620
+2013,NHS Tayside,29 days - 6 months,620
+2013,NHS Tayside,> 6 months,100
+2013,NHS Western Isles,< 1 day,20
+2013,NHS Western Isles,1 - 7 days,50
+2013,NHS Western Isles,8 - 28 days,20
+2013,NHS Western Isles,29 days - 6 months,30
+2013,NHS Western Isles,> 6 months,0
+2013,State Hospitals Board for Scotland,< 1 day,0
+2013,State Hospitals Board for Scotland,1 - 7 days,0
+2013,State Hospitals Board for Scotland,8 - 28 days,0
+2013,State Hospitals Board for Scotland,29 days - 6 months,10
+2013,State Hospitals Board for Scotland,> 6 months,10
+2013,All of Scotland,< 1 day,3090
+2013,All of Scotland,1 - 7 days,11020
+2013,All of Scotland,8 - 28 days,8250
+2013,All of Scotland,29 days - 6 months,6160
+2013,All of Scotland,> 6 months,1100
+2014,The Golden Jubilee National Hospital,< 1 day,0
+2014,The Golden Jubilee National Hospital,1 - 7 days,0
+2014,The Golden Jubilee National Hospital,8 - 28 days,0
+2014,The Golden Jubilee National Hospital,29 days - 6 months,0
+2014,The Golden Jubilee National Hospital,> 6 months,0
+2014,NHS Ayrshire and Arran,< 1 day,180
+2014,NHS Ayrshire and Arran,1 - 7 days,740
+2014,NHS Ayrshire and Arran,8 - 28 days,490
+2014,NHS Ayrshire and Arran,29 days - 6 months,400
+2014,NHS Ayrshire and Arran,> 6 months,50
+2014,NHS Borders,< 1 day,40
+2014,NHS Borders,1 - 7 days,210
+2014,NHS Borders,8 - 28 days,170
+2014,NHS Borders,29 days - 6 months,140
+2014,NHS Borders,> 6 months,30
+2014,NHS Dumfries and Galloway,< 1 day,310
+2014,NHS Dumfries and Galloway,1 - 7 days,340
+2014,NHS Dumfries and Galloway,8 - 28 days,230
+2014,NHS Dumfries and Galloway,29 days - 6 months,180
+2014,NHS Dumfries and Galloway,> 6 months,30
+2014,NHS Fife,< 1 day,210
+2014,NHS Fife,1 - 7 days,620
+2014,NHS Fife,8 - 28 days,520
+2014,NHS Fife,29 days - 6 months,430
+2014,NHS Fife,> 6 months,100
+2014,NHS Forth Valley,< 1 day,100
+2014,NHS Forth Valley,1 - 7 days,590
+2014,NHS Forth Valley,8 - 28 days,360
+2014,NHS Forth Valley,29 days - 6 months,250
+2014,NHS Forth Valley,> 6 months,60
+2014,NHS Grampian,< 1 day,240
+2014,NHS Grampian,1 - 7 days,910
+2014,NHS Grampian,8 - 28 days,620
+2014,NHS Grampian,29 days - 6 months,650
+2014,NHS Grampian,> 6 months,110
+2014,NHS Greater Glasgow and Clyde,< 1 day,650
+2014,NHS Greater Glasgow and Clyde,1 - 7 days,2930
+2014,NHS Greater Glasgow and Clyde,8 - 28 days,2360
+2014,NHS Greater Glasgow and Clyde,29 days - 6 months,1650
+2014,NHS Greater Glasgow and Clyde,> 6 months,330
+2014,NHS Highland,< 1 day,170
+2014,NHS Highland,1 - 7 days,670
+2014,NHS Highland,8 - 28 days,510
+2014,NHS Highland,29 days - 6 months,380
+2014,NHS Highland,> 6 months,70
+2014,NHS Lanarkshire,< 1 day,320
+2014,NHS Lanarkshire,1 - 7 days,1140
+2014,NHS Lanarkshire,8 - 28 days,880
+2014,NHS Lanarkshire,29 days - 6 months,580
+2014,NHS Lanarkshire,> 6 months,100
+2014,NHS Lothian,< 1 day,580
+2014,NHS Lothian,1 - 7 days,1610
+2014,NHS Lothian,8 - 28 days,1300
+2014,NHS Lothian,29 days - 6 months,900
+2014,NHS Lothian,> 6 months,200
+2014,NHS Orkney,< 1 day,20
+2014,NHS Orkney,1 - 7 days,40
+2014,NHS Orkney,8 - 28 days,10
+2014,NHS Orkney,29 days - 6 months,0
+2014,NHS Orkney,> 6 months,0
+2014,NHS Shetland,< 1 day,20
+2014,NHS Shetland,1 - 7 days,60
+2014,NHS Shetland,8 - 28 days,10
+2014,NHS Shetland,29 days - 6 months,0
+2014,NHS Shetland,> 6 months,0
+2014,NHS Tayside,< 1 day,200
+2014,NHS Tayside,1 - 7 days,930
+2014,NHS Tayside,8 - 28 days,650
+2014,NHS Tayside,29 days - 6 months,620
+2014,NHS Tayside,> 6 months,110
+2014,NHS Western Isles,< 1 day,20
+2014,NHS Western Isles,1 - 7 days,40
+2014,NHS Western Isles,8 - 28 days,20
+2014,NHS Western Isles,29 days - 6 months,10
+2014,NHS Western Isles,> 6 months,0
+2014,State Hospitals Board for Scotland,< 1 day,0
+2014,State Hospitals Board for Scotland,1 - 7 days,0
+2014,State Hospitals Board for Scotland,8 - 28 days,0
+2014,State Hospitals Board for Scotland,29 days - 6 months,0
+2014,State Hospitals Board for Scotland,> 6 months,10
+2014,All of Scotland,< 1 day,3070
+2014,All of Scotland,1 - 7 days,10840
+2014,All of Scotland,8 - 28 days,8130
+2014,All of Scotland,29 days - 6 months,6200
+2014,All of Scotland,> 6 months,1180
+2015,The Golden Jubilee National Hospital,< 1 day,0
+2015,The Golden Jubilee National Hospital,1 - 7 days,0
+2015,The Golden Jubilee National Hospital,8 - 28 days,0
+2015,The Golden Jubilee National Hospital,29 days - 6 months,0
+2015,The Golden Jubilee National Hospital,> 6 months,0
+2015,NHS Ayrshire and Arran,< 1 day,170
+2015,NHS Ayrshire and Arran,1 - 7 days,750
+2015,NHS Ayrshire and Arran,8 - 28 days,520
+2015,NHS Ayrshire and Arran,29 days - 6 months,380
+2015,NHS Ayrshire and Arran,> 6 months,50
+2015,NHS Borders,< 1 day,40
+2015,NHS Borders,1 - 7 days,200
+2015,NHS Borders,8 - 28 days,160
+2015,NHS Borders,29 days - 6 months,150
+2015,NHS Borders,> 6 months,20
+2015,NHS Dumfries and Galloway,< 1 day,320
+2015,NHS Dumfries and Galloway,1 - 7 days,330
+2015,NHS Dumfries and Galloway,8 - 28 days,230
+2015,NHS Dumfries and Galloway,29 days - 6 months,180
+2015,NHS Dumfries and Galloway,> 6 months,30
+2015,NHS Fife,< 1 day,250
+2015,NHS Fife,1 - 7 days,620
+2015,NHS Fife,8 - 28 days,500
+2015,NHS Fife,29 days - 6 months,430
+2015,NHS Fife,> 6 months,80
+2015,NHS Forth Valley,< 1 day,130
+2015,NHS Forth Valley,1 - 7 days,680
+2015,NHS Forth Valley,8 - 28 days,350
+2015,NHS Forth Valley,29 days - 6 months,270
+2015,NHS Forth Valley,> 6 months,70
+2015,NHS Grampian,< 1 day,270
+2015,NHS Grampian,1 - 7 days,1000
+2015,NHS Grampian,8 - 28 days,640
+2015,NHS Grampian,29 days - 6 months,620
+2015,NHS Grampian,> 6 months,110
+2015,NHS Greater Glasgow and Clyde,< 1 day,740
+2015,NHS Greater Glasgow and Clyde,1 - 7 days,3130
+2015,NHS Greater Glasgow and Clyde,8 - 28 days,2420
+2015,NHS Greater Glasgow and Clyde,29 days - 6 months,1610
+2015,NHS Greater Glasgow and Clyde,> 6 months,330
+2015,NHS Highland,< 1 day,120
+2015,NHS Highland,1 - 7 days,660
+2015,NHS Highland,8 - 28 days,520
+2015,NHS Highland,29 days - 6 months,400
+2015,NHS Highland,> 6 months,70
+2015,NHS Lanarkshire,< 1 day,340
+2015,NHS Lanarkshire,1 - 7 days,1180
+2015,NHS Lanarkshire,8 - 28 days,880
+2015,NHS Lanarkshire,29 days - 6 months,590
+2015,NHS Lanarkshire,> 6 months,90
+2015,NHS Lothian,< 1 day,520
+2015,NHS Lothian,1 - 7 days,1650
+2015,NHS Lothian,8 - 28 days,1200
+2015,NHS Lothian,29 days - 6 months,980
+2015,NHS Lothian,> 6 months,250
+2015,NHS Orkney,< 1 day,20
+2015,NHS Orkney,1 - 7 days,30
+2015,NHS Orkney,8 - 28 days,0
+2015,NHS Orkney,29 days - 6 months,0
+2015,NHS Orkney,> 6 months,0
+2015,NHS Shetland,< 1 day,20
+2015,NHS Shetland,1 - 7 days,40
+2015,NHS Shetland,8 - 28 days,10
+2015,NHS Shetland,29 days - 6 months,0
+2015,NHS Shetland,> 6 months,0
+2015,NHS Tayside,< 1 day,270
+2015,NHS Tayside,1 - 7 days,990
+2015,NHS Tayside,8 - 28 days,700
+2015,NHS Tayside,29 days - 6 months,700
+2015,NHS Tayside,> 6 months,90
+2015,NHS Western Isles,< 1 day,20
+2015,NHS Western Isles,1 - 7 days,50
+2015,NHS Western Isles,8 - 28 days,20
+2015,NHS Western Isles,29 days - 6 months,20
+2015,NHS Western Isles,> 6 months,10
+2015,State Hospitals Board for Scotland,< 1 day,0
+2015,State Hospitals Board for Scotland,1 - 7 days,0
+2015,State Hospitals Board for Scotland,8 - 28 days,0
+2015,State Hospitals Board for Scotland,29 days - 6 months,0
+2015,State Hospitals Board for Scotland,> 6 months,20
+2015,All of Scotland,< 1 day,3240
+2015,All of Scotland,1 - 7 days,11320
+2015,All of Scotland,8 - 28 days,8140
+2015,All of Scotland,29 days - 6 months,6330
+2015,All of Scotland,> 6 months,1210
+2016,The Golden Jubilee National Hospital,< 1 day,0
+2016,The Golden Jubilee National Hospital,1 - 7 days,0
+2016,The Golden Jubilee National Hospital,8 - 28 days,0
+2016,The Golden Jubilee National Hospital,29 days - 6 months,0
+2016,The Golden Jubilee National Hospital,> 6 months,0
+2016,NHS Ayrshire and Arran,< 1 day,200
+2016,NHS Ayrshire and Arran,1 - 7 days,820
+2016,NHS Ayrshire and Arran,8 - 28 days,500
+2016,NHS Ayrshire and Arran,29 days - 6 months,370
+2016,NHS Ayrshire and Arran,> 6 months,50
+2016,NHS Borders,< 1 day,40
+2016,NHS Borders,1 - 7 days,230
+2016,NHS Borders,8 - 28 days,150
+2016,NHS Borders,29 days - 6 months,100
+2016,NHS Borders,> 6 months,20
+2016,NHS Dumfries and Galloway,< 1 day,280
+2016,NHS Dumfries and Galloway,1 - 7 days,370
+2016,NHS Dumfries and Galloway,8 - 28 days,230
+2016,NHS Dumfries and Galloway,29 days - 6 months,180
+2016,NHS Dumfries and Galloway,> 6 months,20
+2016,NHS Fife,< 1 day,240
+2016,NHS Fife,1 - 7 days,720
+2016,NHS Fife,8 - 28 days,550
+2016,NHS Fife,29 days - 6 months,430
+2016,NHS Fife,> 6 months,90
+2016,NHS Forth Valley,< 1 day,130
+2016,NHS Forth Valley,1 - 7 days,730
+2016,NHS Forth Valley,8 - 28 days,360
+2016,NHS Forth Valley,29 days - 6 months,260
+2016,NHS Forth Valley,> 6 months,80
+2016,NHS Grampian,< 1 day,260
+2016,NHS Grampian,1 - 7 days,930
+2016,NHS Grampian,8 - 28 days,610
+2016,NHS Grampian,29 days - 6 months,610
+2016,NHS Grampian,> 6 months,120
+2016,NHS Greater Glasgow and Clyde,< 1 day,870
+2016,NHS Greater Glasgow and Clyde,1 - 7 days,3550
+2016,NHS Greater Glasgow and Clyde,8 - 28 days,2350
+2016,NHS Greater Glasgow and Clyde,29 days - 6 months,1660
+2016,NHS Greater Glasgow and Clyde,> 6 months,340
+2016,NHS Highland,< 1 day,170
+2016,NHS Highland,1 - 7 days,650
+2016,NHS Highland,8 - 28 days,470
+2016,NHS Highland,29 days - 6 months,340
+2016,NHS Highland,> 6 months,70
+2016,NHS Lanarkshire,< 1 day,350
+2016,NHS Lanarkshire,1 - 7 days,1200
+2016,NHS Lanarkshire,8 - 28 days,950
+2016,NHS Lanarkshire,29 days - 6 months,560
+2016,NHS Lanarkshire,> 6 months,90
+2016,NHS Lothian,< 1 day,680
+2016,NHS Lothian,1 - 7 days,1570
+2016,NHS Lothian,8 - 28 days,1140
+2016,NHS Lothian,29 days - 6 months,960
+2016,NHS Lothian,> 6 months,200
+2016,NHS Orkney,< 1 day,10
+2016,NHS Orkney,1 - 7 days,10
+2016,NHS Orkney,8 - 28 days,0
+2016,NHS Orkney,29 days - 6 months,0
+2016,NHS Orkney,> 6 months,0
+2016,NHS Shetland,< 1 day,20
+2016,NHS Shetland,1 - 7 days,50
+2016,NHS Shetland,8 - 28 days,0
+2016,NHS Shetland,29 days - 6 months,0
+2016,NHS Shetland,> 6 months,0
+2016,NHS Tayside,< 1 day,280
+2016,NHS Tayside,1 - 7 days,970
+2016,NHS Tayside,8 - 28 days,740
+2016,NHS Tayside,29 days - 6 months,710
+2016,NHS Tayside,> 6 months,110
+2016,NHS Western Isles,< 1 day,20
+2016,NHS Western Isles,1 - 7 days,60
+2016,NHS Western Isles,8 - 28 days,20
+2016,NHS Western Isles,29 days - 6 months,10
+2016,NHS Western Isles,> 6 months,10
+2016,State Hospitals Board for Scotland,< 1 day,0
+2016,State Hospitals Board for Scotland,1 - 7 days,0
+2016,State Hospitals Board for Scotland,8 - 28 days,0
+2016,State Hospitals Board for Scotland,29 days - 6 months,0
+2016,State Hospitals Board for Scotland,> 6 months,20
+2016,All of Scotland,< 1 day,3550
+2016,All of Scotland,1 - 7 days,11860
+2016,All of Scotland,8 - 28 days,8080
+2016,All of Scotland,29 days - 6 months,6200
+2016,All of Scotland,> 6 months,1220
+2017,The Golden Jubilee National Hospital,< 1 day,0
+2017,The Golden Jubilee National Hospital,1 - 7 days,0
+2017,The Golden Jubilee National Hospital,8 - 28 days,0
+2017,The Golden Jubilee National Hospital,29 days - 6 months,0
+2017,The Golden Jubilee National Hospital,> 6 months,0
+2017,NHS Ayrshire and Arran,< 1 day,200
+2017,NHS Ayrshire and Arran,1 - 7 days,860
+2017,NHS Ayrshire and Arran,8 - 28 days,430
+2017,NHS Ayrshire and Arran,29 days - 6 months,360
+2017,NHS Ayrshire and Arran,> 6 months,60
+2017,NHS Borders,< 1 day,50
+2017,NHS Borders,1 - 7 days,260
+2017,NHS Borders,8 - 28 days,160
+2017,NHS Borders,29 days - 6 months,120
+2017,NHS Borders,> 6 months,20
+2017,NHS Dumfries and Galloway,< 1 day,270
+2017,NHS Dumfries and Galloway,1 - 7 days,380
+2017,NHS Dumfries and Galloway,8 - 28 days,220
+2017,NHS Dumfries and Galloway,29 days - 6 months,170
+2017,NHS Dumfries and Galloway,> 6 months,10
+2017,NHS Fife,< 1 day,290
+2017,NHS Fife,1 - 7 days,860
+2017,NHS Fife,8 - 28 days,580
+2017,NHS Fife,29 days - 6 months,460
+2017,NHS Fife,> 6 months,100
+2017,NHS Forth Valley,< 1 day,180
+2017,NHS Forth Valley,1 - 7 days,700
+2017,NHS Forth Valley,8 - 28 days,400
+2017,NHS Forth Valley,29 days - 6 months,260
+2017,NHS Forth Valley,> 6 months,80
+2017,NHS Grampian,< 1 day,250
+2017,NHS Grampian,1 - 7 days,1000
+2017,NHS Grampian,8 - 28 days,630
+2017,NHS Grampian,29 days - 6 months,560
+2017,NHS Grampian,> 6 months,110
+2017,NHS Greater Glasgow and Clyde,< 1 day,840
+2017,NHS Greater Glasgow and Clyde,1 - 7 days,3720
+2017,NHS Greater Glasgow and Clyde,8 - 28 days,2560
+2017,NHS Greater Glasgow and Clyde,29 days - 6 months,1680
+2017,NHS Greater Glasgow and Clyde,> 6 months,350
+2017,NHS Highland,< 1 day,180
+2017,NHS Highland,1 - 7 days,670
+2017,NHS Highland,8 - 28 days,430
+2017,NHS Highland,29 days - 6 months,300
+2017,NHS Highland,> 6 months,80
+2017,NHS Lanarkshire,< 1 day,330
+2017,NHS Lanarkshire,1 - 7 days,1230
+2017,NHS Lanarkshire,8 - 28 days,880
+2017,NHS Lanarkshire,29 days - 6 months,550
+2017,NHS Lanarkshire,> 6 months,100
+2017,NHS Lothian,< 1 day,590
+2017,NHS Lothian,1 - 7 days,1580
+2017,NHS Lothian,8 - 28 days,1240
+2017,NHS Lothian,29 days - 6 months,940
+2017,NHS Lothian,> 6 months,210
+2017,NHS Orkney,< 1 day,30
+2017,NHS Orkney,1 - 7 days,20
+2017,NHS Orkney,8 - 28 days,10
+2017,NHS Orkney,29 days - 6 months,0
+2017,NHS Orkney,> 6 months,0
+2017,NHS Shetland,< 1 day,20
+2017,NHS Shetland,1 - 7 days,50
+2017,NHS Shetland,8 - 28 days,20
+2017,NHS Shetland,29 days - 6 months,0
+2017,NHS Shetland,> 6 months,0
+2017,NHS Tayside,< 1 day,260
+2017,NHS Tayside,1 - 7 days,920
+2017,NHS Tayside,8 - 28 days,650
+2017,NHS Tayside,29 days - 6 months,700
+2017,NHS Tayside,> 6 months,90
+2017,NHS Western Isles,< 1 day,20
+2017,NHS Western Isles,1 - 7 days,80
+2017,NHS Western Isles,8 - 28 days,20
+2017,NHS Western Isles,29 days - 6 months,20
+2017,NHS Western Isles,> 6 months,10
+2017,State Hospitals Board for Scotland,< 1 day,0
+2017,State Hospitals Board for Scotland,1 - 7 days,0
+2017,State Hospitals Board for Scotland,8 - 28 days,0
+2017,State Hospitals Board for Scotland,29 days - 6 months,10
+2017,State Hospitals Board for Scotland,> 6 months,10
+2017,All of Scotland,< 1 day,3510
+2017,All of Scotland,1 - 7 days,12310
+2017,All of Scotland,8 - 28 days,8250
+2017,All of Scotland,29 days - 6 months,6140
+2017,All of Scotland,> 6 months,1220
+2018,The Golden Jubilee National Hospital,< 1 day,0
+2018,The Golden Jubilee National Hospital,1 - 7 days,0
+2018,The Golden Jubilee National Hospital,8 - 28 days,0
+2018,The Golden Jubilee National Hospital,29 days - 6 months,0
+2018,The Golden Jubilee National Hospital,> 6 months,0
+2018,NHS Ayrshire and Arran,< 1 day,220
+2018,NHS Ayrshire and Arran,1 - 7 days,830
+2018,NHS Ayrshire and Arran,8 - 28 days,500
+2018,NHS Ayrshire and Arran,29 days - 6 months,390
+2018,NHS Ayrshire and Arran,> 6 months,60
+2018,NHS Borders,< 1 day,40
+2018,NHS Borders,1 - 7 days,220
+2018,NHS Borders,8 - 28 days,150
+2018,NHS Borders,29 days - 6 months,110
+2018,NHS Borders,> 6 months,30
+2018,NHS Dumfries and Galloway,< 1 day,410
+2018,NHS Dumfries and Galloway,1 - 7 days,300
+2018,NHS Dumfries and Galloway,8 - 28 days,230
+2018,NHS Dumfries and Galloway,29 days - 6 months,180
+2018,NHS Dumfries and Galloway,> 6 months,10
+2018,NHS Fife,< 1 day,310
+2018,NHS Fife,1 - 7 days,890
+2018,NHS Fife,8 - 28 days,590
+2018,NHS Fife,29 days - 6 months,480
+2018,NHS Fife,> 6 months,80
+2018,NHS Forth Valley,< 1 day,140
+2018,NHS Forth Valley,1 - 7 days,720
+2018,NHS Forth Valley,8 - 28 days,360
+2018,NHS Forth Valley,29 days - 6 months,260
+2018,NHS Forth Valley,> 6 months,90
+2018,NHS Grampian,< 1 day,310
+2018,NHS Grampian,1 - 7 days,1020
+2018,NHS Grampian,8 - 28 days,620
+2018,NHS Grampian,29 days - 6 months,580
+2018,NHS Grampian,> 6 months,110
+2018,NHS Greater Glasgow and Clyde,< 1 day,940
+2018,NHS Greater Glasgow and Clyde,1 - 7 days,3790
+2018,NHS Greater Glasgow and Clyde,8 - 28 days,2620
+2018,NHS Greater Glasgow and Clyde,29 days - 6 months,1670
+2018,NHS Greater Glasgow and Clyde,> 6 months,290
+2018,NHS Highland,< 1 day,190
+2018,NHS Highland,1 - 7 days,690
+2018,NHS Highland,8 - 28 days,380
+2018,NHS Highland,29 days - 6 months,280
+2018,NHS Highland,> 6 months,80
+2018,NHS Lanarkshire,< 1 day,400
+2018,NHS Lanarkshire,1 - 7 days,1350
+2018,NHS Lanarkshire,8 - 28 days,930
+2018,NHS Lanarkshire,29 days - 6 months,550
+2018,NHS Lanarkshire,> 6 months,70
+2018,NHS Lothian,< 1 day,580
+2018,NHS Lothian,1 - 7 days,1750
+2018,NHS Lothian,8 - 28 days,1220
+2018,NHS Lothian,29 days - 6 months,980
+2018,NHS Lothian,> 6 months,220
+2018,NHS Orkney,< 1 day,20
+2018,NHS Orkney,1 - 7 days,40
+2018,NHS Orkney,8 - 28 days,0
+2018,NHS Orkney,29 days - 6 months,0
+2018,NHS Orkney,> 6 months,0
+2018,NHS Shetland,< 1 day,30
+2018,NHS Shetland,1 - 7 days,40
+2018,NHS Shetland,8 - 28 days,10
+2018,NHS Shetland,29 days - 6 months,0
+2018,NHS Shetland,> 6 months,0
+2018,NHS Tayside,< 1 day,340
+2018,NHS Tayside,1 - 7 days,1120
+2018,NHS Tayside,8 - 28 days,680
+2018,NHS Tayside,29 days - 6 months,680
+2018,NHS Tayside,> 6 months,100
+2018,NHS Western Isles,< 1 day,20
+2018,NHS Western Isles,1 - 7 days,70
+2018,NHS Western Isles,8 - 28 days,20
+2018,NHS Western Isles,29 days - 6 months,20
+2018,NHS Western Isles,> 6 months,10
+2018,State Hospitals Board for Scotland,< 1 day,0
+2018,State Hospitals Board for Scotland,1 - 7 days,0
+2018,State Hospitals Board for Scotland,8 - 28 days,0
+2018,State Hospitals Board for Scotland,29 days - 6 months,10
+2018,State Hospitals Board for Scotland,> 6 months,10
+2018,All of Scotland,< 1 day,3970
+2018,All of Scotland,1 - 7 days,12830
+2018,All of Scotland,8 - 28 days,8320
+2018,All of Scotland,29 days - 6 months,6190
+2018,All of Scotland,> 6 months,1170
+2019,The Golden Jubilee National Hospital,< 1 day,0
+2019,The Golden Jubilee National Hospital,1 - 7 days,0
+2019,The Golden Jubilee National Hospital,8 - 28 days,0
+2019,The Golden Jubilee National Hospital,29 days - 6 months,0
+2019,The Golden Jubilee National Hospital,> 6 months,0
+2019,NHS Ayrshire and Arran,< 1 day,160
+2019,NHS Ayrshire and Arran,1 - 7 days,840
+2019,NHS Ayrshire and Arran,8 - 28 days,440
+2019,NHS Ayrshire and Arran,29 days - 6 months,330
+2019,NHS Ayrshire and Arran,> 6 months,50
+2019,NHS Borders,< 1 day,60
+2019,NHS Borders,1 - 7 days,300
+2019,NHS Borders,8 - 28 days,190
+2019,NHS Borders,29 days - 6 months,110
+2019,NHS Borders,> 6 months,20
+2019,NHS Dumfries and Galloway,< 1 day,360
+2019,NHS Dumfries and Galloway,1 - 7 days,360
+2019,NHS Dumfries and Galloway,8 - 28 days,240
+2019,NHS Dumfries and Galloway,29 days - 6 months,190
+2019,NHS Dumfries and Galloway,> 6 months,20
+2019,NHS Fife,< 1 day,340
+2019,NHS Fife,1 - 7 days,840
+2019,NHS Fife,8 - 28 days,550
+2019,NHS Fife,29 days - 6 months,480
+2019,NHS Fife,> 6 months,90
+2019,NHS Forth Valley,< 1 day,250
+2019,NHS Forth Valley,1 - 7 days,730
+2019,NHS Forth Valley,8 - 28 days,370
+2019,NHS Forth Valley,29 days - 6 months,300
+2019,NHS Forth Valley,> 6 months,80
+2019,NHS Grampian,< 1 day,390
+2019,NHS Grampian,1 - 7 days,1060
+2019,NHS Grampian,8 - 28 days,670
+2019,NHS Grampian,29 days - 6 months,570
+2019,NHS Grampian,> 6 months,120
+2019,NHS Greater Glasgow and Clyde,< 1 day,980
+2019,NHS Greater Glasgow and Clyde,1 - 7 days,4020
+2019,NHS Greater Glasgow and Clyde,8 - 28 days,2600
+2019,NHS Greater Glasgow and Clyde,29 days - 6 months,1790
+2019,NHS Greater Glasgow and Clyde,> 6 months,320
+2019,NHS Highland,< 1 day,190
+2019,NHS Highland,1 - 7 days,650
+2019,NHS Highland,8 - 28 days,410
+2019,NHS Highland,29 days - 6 months,290
+2019,NHS Highland,> 6 months,70
+2019,NHS Lanarkshire,< 1 day,460
+2019,NHS Lanarkshire,1 - 7 days,1430
+2019,NHS Lanarkshire,8 - 28 days,980
+2019,NHS Lanarkshire,29 days - 6 months,580
+2019,NHS Lanarkshire,> 6 months,100
+2019,NHS Lothian,< 1 day,700
+2019,NHS Lothian,1 - 7 days,1950
+2019,NHS Lothian,8 - 28 days,1310
+2019,NHS Lothian,29 days - 6 months,940
+2019,NHS Lothian,> 6 months,190
+2019,NHS Orkney,< 1 day,20
+2019,NHS Orkney,1 - 7 days,30
+2019,NHS Orkney,8 - 28 days,0
+2019,NHS Orkney,29 days - 6 months,0
+2019,NHS Orkney,> 6 months,0
+2019,NHS Shetland,< 1 day,10
+2019,NHS Shetland,1 - 7 days,60
+2019,NHS Shetland,8 - 28 days,10
+2019,NHS Shetland,29 days - 6 months,0
+2019,NHS Shetland,> 6 months,0
+2019,NHS Tayside,< 1 day,410
+2019,NHS Tayside,1 - 7 days,1140
+2019,NHS Tayside,8 - 28 days,690
+2019,NHS Tayside,29 days - 6 months,640
+2019,NHS Tayside,> 6 months,90
+2019,NHS Western Isles,< 1 day,20
+2019,NHS Western Isles,1 - 7 days,80
+2019,NHS Western Isles,8 - 28 days,20
+2019,NHS Western Isles,29 days - 6 months,30
+2019,NHS Western Isles,> 6 months,0
+2019,State Hospitals Board for Scotland,< 1 day,0
+2019,State Hospitals Board for Scotland,1 - 7 days,0
+2019,State Hospitals Board for Scotland,8 - 28 days,0
+2019,State Hospitals Board for Scotland,29 days - 6 months,0
+2019,State Hospitals Board for Scotland,> 6 months,10
+2019,All of Scotland,< 1 day,4360
+2019,All of Scotland,1 - 7 days,13490
+2019,All of Scotland,8 - 28 days,8490
+2019,All of Scotland,29 days - 6 months,6250
+2019,All of Scotland,> 6 months,1180
+2020,The Golden Jubilee National Hospital,< 1 day,0
+2020,The Golden Jubilee National Hospital,1 - 7 days,0
+2020,The Golden Jubilee National Hospital,8 - 28 days,0
+2020,The Golden Jubilee National Hospital,29 days - 6 months,0
+2020,The Golden Jubilee National Hospital,> 6 months,0
+2020,NHS Ayrshire and Arran,< 1 day,190
+2020,NHS Ayrshire and Arran,1 - 7 days,700
+2020,NHS Ayrshire and Arran,8 - 28 days,470
+2020,NHS Ayrshire and Arran,29 days - 6 months,300
+2020,NHS Ayrshire and Arran,> 6 months,50
+2020,NHS Borders,< 1 day,60
+2020,NHS Borders,1 - 7 days,260
+2020,NHS Borders,8 - 28 days,180
+2020,NHS Borders,29 days - 6 months,100
+2020,NHS Borders,> 6 months,20
+2020,NHS Dumfries and Galloway,< 1 day,320
+2020,NHS Dumfries and Galloway,1 - 7 days,360
+2020,NHS Dumfries and Galloway,8 - 28 days,180
+2020,NHS Dumfries and Galloway,29 days - 6 months,150
+2020,NHS Dumfries and Galloway,> 6 months,20
+2020,NHS Fife,< 1 day,230
+2020,NHS Fife,1 - 7 days,800
+2020,NHS Fife,8 - 28 days,440
+2020,NHS Fife,29 days - 6 months,340
+2020,NHS Fife,> 6 months,70
+2020,NHS Forth Valley,< 1 day,220
+2020,NHS Forth Valley,1 - 7 days,620
+2020,NHS Forth Valley,8 - 28 days,410
+2020,NHS Forth Valley,29 days - 6 months,300
+2020,NHS Forth Valley,> 6 months,70
+2020,NHS Grampian,< 1 day,430
+2020,NHS Grampian,1 - 7 days,1000
+2020,NHS Grampian,8 - 28 days,640
+2020,NHS Grampian,29 days - 6 months,520
+2020,NHS Grampian,> 6 months,90
+2020,NHS Greater Glasgow and Clyde,< 1 day,740
+2020,NHS Greater Glasgow and Clyde,1 - 7 days,3820
+2020,NHS Greater Glasgow and Clyde,8 - 28 days,2320
+2020,NHS Greater Glasgow and Clyde,29 days - 6 months,1560
+2020,NHS Greater Glasgow and Clyde,> 6 months,290
+2020,NHS Highland,< 1 day,120
+2020,NHS Highland,1 - 7 days,560
+2020,NHS Highland,8 - 28 days,270
+2020,NHS Highland,29 days - 6 months,250
+2020,NHS Highland,> 6 months,60
+2020,NHS Lanarkshire,< 1 day,370
+2020,NHS Lanarkshire,1 - 7 days,1470
+2020,NHS Lanarkshire,8 - 28 days,790
+2020,NHS Lanarkshire,29 days - 6 months,390
+2020,NHS Lanarkshire,> 6 months,80
+2020,NHS Lothian,< 1 day,730
+2020,NHS Lothian,1 - 7 days,1890
+2020,NHS Lothian,8 - 28 days,1330
+2020,NHS Lothian,29 days - 6 months,870
+2020,NHS Lothian,> 6 months,160
+2020,NHS Orkney,< 1 day,10
+2020,NHS Orkney,1 - 7 days,30
+2020,NHS Orkney,8 - 28 days,0
+2020,NHS Orkney,29 days - 6 months,0
+2020,NHS Orkney,> 6 months,0
+2020,NHS Shetland,< 1 day,20
+2020,NHS Shetland,1 - 7 days,40
+2020,NHS Shetland,8 - 28 days,10
+2020,NHS Shetland,29 days - 6 months,0
+2020,NHS Shetland,> 6 months,0
+2020,NHS Tayside,< 1 day,350
+2020,NHS Tayside,1 - 7 days,1110
+2020,NHS Tayside,8 - 28 days,590
+2020,NHS Tayside,29 days - 6 months,460
+2020,NHS Tayside,> 6 months,90
+2020,NHS Western Isles,< 1 day,10
+2020,NHS Western Isles,1 - 7 days,70
+2020,NHS Western Isles,8 - 28 days,30
+2020,NHS Western Isles,29 days - 6 months,10
+2020,NHS Western Isles,> 6 months,0
+2020,State Hospitals Board for Scotland,< 1 day,0
+2020,State Hospitals Board for Scotland,1 - 7 days,0
+2020,State Hospitals Board for Scotland,8 - 28 days,0
+2020,State Hospitals Board for Scotland,29 days - 6 months,0
+2020,State Hospitals Board for Scotland,> 6 months,20
+2020,All of Scotland,< 1 day,3770
+2020,All of Scotland,1 - 7 days,12730
+2020,All of Scotland,8 - 28 days,7650
+2020,All of Scotland,29 days - 6 months,5260
+2020,All of Scotland,> 6 months,1010
+2021,The Golden Jubilee National Hospital,< 1 day,0
+2021,The Golden Jubilee National Hospital,1 - 7 days,0
+2021,The Golden Jubilee National Hospital,8 - 28 days,0
+2021,The Golden Jubilee National Hospital,29 days - 6 months,0
+2021,The Golden Jubilee National Hospital,> 6 months,0
+2021,NHS Ayrshire and Arran,< 1 day,110
+2021,NHS Ayrshire and Arran,1 - 7 days,590
+2021,NHS Ayrshire and Arran,8 - 28 days,520
+2021,NHS Ayrshire and Arran,29 days - 6 months,300
+2021,NHS Ayrshire and Arran,> 6 months,60
+2021,NHS Borders,< 1 day,30
+2021,NHS Borders,1 - 7 days,230
+2021,NHS Borders,8 - 28 days,160
+2021,NHS Borders,29 days - 6 months,80
+2021,NHS Borders,> 6 months,20
+2021,NHS Dumfries and Galloway,< 1 day,260
+2021,NHS Dumfries and Galloway,1 - 7 days,310
+2021,NHS Dumfries and Galloway,8 - 28 days,210
+2021,NHS Dumfries and Galloway,29 days - 6 months,170
+2021,NHS Dumfries and Galloway,> 6 months,20
+2021,NHS Fife,< 1 day,320
+2021,NHS Fife,1 - 7 days,850
+2021,NHS Fife,8 - 28 days,510
+2021,NHS Fife,29 days - 6 months,460
+2021,NHS Fife,> 6 months,80
+2021,NHS Forth Valley,< 1 day,210
+2021,NHS Forth Valley,1 - 7 days,600
+2021,NHS Forth Valley,8 - 28 days,360
+2021,NHS Forth Valley,29 days - 6 months,320
+2021,NHS Forth Valley,> 6 months,70
+2021,NHS Grampian,< 1 day,350
+2021,NHS Grampian,1 - 7 days,1080
+2021,NHS Grampian,8 - 28 days,590
+2021,NHS Grampian,29 days - 6 months,580
+2021,NHS Grampian,> 6 months,80
+2021,NHS Greater Glasgow and Clyde,< 1 day,750
+2021,NHS Greater Glasgow and Clyde,1 - 7 days,3560
+2021,NHS Greater Glasgow and Clyde,8 - 28 days,2300
+2021,NHS Greater Glasgow and Clyde,29 days - 6 months,1560
+2021,NHS Greater Glasgow and Clyde,> 6 months,310
+2021,NHS Highland,< 1 day,120
+2021,NHS Highland,1 - 7 days,560
+2021,NHS Highland,8 - 28 days,270
+2021,NHS Highland,29 days - 6 months,220
+2021,NHS Highland,> 6 months,40
+2021,NHS Lanarkshire,< 1 day,280
+2021,NHS Lanarkshire,1 - 7 days,1420
+2021,NHS Lanarkshire,8 - 28 days,890
+2021,NHS Lanarkshire,29 days - 6 months,530
+2021,NHS Lanarkshire,> 6 months,70
+2021,NHS Lothian,< 1 day,580
+2021,NHS Lothian,1 - 7 days,1890
+2021,NHS Lothian,8 - 28 days,1290
+2021,NHS Lothian,29 days - 6 months,1010
+2021,NHS Lothian,> 6 months,190
+2021,NHS Orkney,< 1 day,20
+2021,NHS Orkney,1 - 7 days,30
+2021,NHS Orkney,8 - 28 days,0
+2021,NHS Orkney,29 days - 6 months,0
+2021,NHS Orkney,> 6 months,0
+2021,NHS Shetland,< 1 day,20
+2021,NHS Shetland,1 - 7 days,40
+2021,NHS Shetland,8 - 28 days,10
+2021,NHS Shetland,29 days - 6 months,0
+2021,NHS Shetland,> 6 months,0
+2021,NHS Tayside,< 1 day,420
+2021,NHS Tayside,1 - 7 days,1230
+2021,NHS Tayside,8 - 28 days,580
+2021,NHS Tayside,29 days - 6 months,490
+2021,NHS Tayside,> 6 months,120
+2021,NHS Western Isles,< 1 day,10
+2021,NHS Western Isles,1 - 7 days,70
+2021,NHS Western Isles,8 - 28 days,30
+2021,NHS Western Isles,29 days - 6 months,20
+2021,NHS Western Isles,> 6 months,0
+2021,State Hospitals Board for Scotland,< 1 day,0
+2021,State Hospitals Board for Scotland,1 - 7 days,0
+2021,State Hospitals Board for Scotland,8 - 28 days,0
+2021,State Hospitals Board for Scotland,29 days - 6 months,10
+2021,State Hospitals Board for Scotland,> 6 months,10
+2021,All of Scotland,< 1 day,3480
+2021,All of Scotland,1 - 7 days,12480
+2021,All of Scotland,8 - 28 days,7720
+2021,All of Scotland,29 days - 6 months,5760
+2021,All of Scotland,> 6 months,1070
