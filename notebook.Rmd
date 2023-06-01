@@ -1,0 +1,58 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+length_of_stay_clean %>%
+  filter(health_board == "All of Scotland") %>%
+  group_by(financial_year) %>% 
+  mutate(total_number_of_stays = sum(number_of_stays)) %>% 
+  ungroup() %>% 
+  mutate(proportion_of_stays = number_of_stays / total_number_of_stays)
+```
+
+
+```{r}
+
+length_of_stay_clean %>%
+  filter(health_board == "All of Scotland") %>%
+  group_by(financial_year) %>% 
+  mutate(total_number_of_stays = sum(number_of_stays)) %>% 
+  ungroup() %>% 
+  mutate(proportion_of_stays = number_of_stays / total_number_of_stays,
+         health_board = as_factor(health_board)) %>% 
+  group_by(length_of_stay) %>% 
+  ggplot(aes(x = financial_year, y = proportion_of_stays, fill = length_of_stay)) +
+  geom_area()
+```
+
+
+```{r}
+length_of_stay_clean %>% 
+  filter(health_board %in% c("All of Scotland", "NHS Borders")) %>%
+  ggplot(aes(x = financial_year, y = number_of_stays, fill = length_of_stay)) +
+  geom_col(position = "fill", colour = "white", size = 0.2) +
+  labs(x = "\n Year",
+       y = "Length of Stay Proportion \n",
+       title = "Length of Stay Proportions by Health Board") +
+  facet_wrap(~ health_board) +
+  scale_y_continuous(labels = scales::percent)
+  
+```
+```{r}
+suicide %>% 
+  filter(health_board == "All of Scotland") %>%
+  ggplot(aes(x = year, y = individuals_count, colour = sex)) +
+  geom_line() +
+  geom_point() +
+  scale_x_continuous(breaks=seq(2011,
+                                2019,
+                                1)) +
+  expand_limits(y = 0) +
+  labs(x = "\n Year",
+       y = "Total Number of Admissions \n",
+       title = "Total Number of Registered Suicides by Health Board")
+```
+
