@@ -3,73 +3,19 @@ title: "R Notebook"
 output: html_notebook
 ---
 
-
-```{r}
-length_of_stay_clean %>%
-  filter(health_board == "All of Scotland") %>%
-  group_by(financial_year) %>% 
-  mutate(total_number_of_stays = sum(number_of_stays)) %>% 
-  ungroup() %>% 
-  mutate(proportion_of_stays = number_of_stays / total_number_of_stays)
-```
-
-
 ```{r}
 
-length_of_stay_clean %>%
-  filter(health_board == "All of Scotland") %>%
-  group_by(financial_year) %>% 
-  mutate(total_number_of_stays = sum(number_of_stays)) %>% 
-  ungroup() %>% 
-  mutate(proportion_of_stays = number_of_stays / total_number_of_stays,
-         health_board = as_factor(health_board)) %>% 
-  group_by(length_of_stay) %>% 
-  ggplot(aes(x = financial_year, y = proportion_of_stays, fill = length_of_stay)) +
-  geom_area()
+admissions %>%
+  select(financial_year, health_board, number_of_admissions) %>% 
+  gt() %>%
+  cols_label(
+    financial_year = "Year",
+    health_board = "Health Board",
+    number_of_admissions = "No. of Admisisons") %>% 
+  tab_header(title = "Total Number of Admissions by Health Board") %>% 
+  tab_options(heading.title.font.weight = "bold",
+              heading.title.font.size = "large") %>% 
+  gt_color_rows(number_of_admissions, palette = "ggsci::blue_material")
 ```
 
-
-```{r}
-length_of_stay_clean %>% 
-  filter(health_board %in% c("All of Scotland", "NHS Borders")) %>%
-  ggplot(aes(x = financial_year, y = number_of_stays, fill = length_of_stay)) +
-  geom_col(position = "fill", colour = "white", size = 0.2) +
-  labs(x = "\n Year",
-       y = "Length of Stay Proportion \n",
-       title = "Length of Stay Proportions by Health Board") +
-  facet_wrap(~ health_board) +
-  scale_y_continuous(labels = scales::percent)
-  
-```
-```{r}
-suicide %>% 
-  filter(health_board == "All of Scotland") %>%
-  ggplot(aes(x = year, y = individuals_count, colour = sex)) +
-  geom_line() +
-  geom_point() +
-  scale_x_continuous(breaks=seq(2011,
-                                2019,
-                                1)) +
-  expand_limits(y = 0) +
-  labs(x = "\n Year",
-       y = "Total Number of Admissions \n",
-       title = "Total Number of Registered Suicides by Health Board")
-```
-```{r}
-                 conditionalPanel(
-                   condition = "input.year_input == 'total_admissions'",
-```
-
-```{r}
-admissions_age_sex %>%
-  filter(health_board == "All of Scotland") %>%
-  group_by(financial_year, age_group) %>%
-  summarise(total_discharge_count = sum(discharge_count)) %>% 
-  ggplot(aes(x = financial_year, y = total_discharge_count, colour = sex)) +
-  # geom_line() +
-  geom_point() +
-  labs(x = "\n Year",
-       y = "Total Number of Discharges \n",
-       title = "Total Number of Discharges by Sex")
-```
 

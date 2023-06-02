@@ -5,6 +5,8 @@ library(tidyverse)
 library(here)
 library(shinyWidgets)
 library(bslib)
+library(gt)
+library(gtExtras)
 
 # Read In Clean Data
 
