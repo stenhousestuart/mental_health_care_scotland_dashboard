@@ -1,9 +1,11 @@
 ui <- fluidPage(
   
-  theme = bs_theme(bootswatch = "zephyr"),
+  setBackgroundColor("#e7ecef"),
   
-  titlePanel(h1("Mental Health Data: Scotland",
-                style='background-color:#e6f0ff; border-radius: 5px; padding: 20px;')),
+  # theme = bs_theme(bootswatch = "litera"),
+  
+  titlePanel(h1("Mental Health Admissions & Discharges: Scotland",
+                style='background-color:#6096ba; border-radius: 5px; padding: 20px;')),
   
   tabsetPanel(
     tabPanel(title = "App",
@@ -13,15 +15,10 @@ ui <- fluidPage(
              sidebarLayout(
                sidebarPanel(
                  
-                 radioButtons(inputId = "data_view_input",
-                              label = tags$b("Data Type:"),
-                              choices = data_view_options
-                              ),
+                 tags$h3("Step 1:"),
                  
-                 tags$hr(),
-                 
-                 sliderInput("year_input", 
-                             tags$b("Date range:"),
+                 sliderInput(inputId = "year_input", 
+                             label = "Select Date Range:",
                              min = 1997, 
                              max = 2021,
                              step = 1,
@@ -30,26 +27,66 @@ ui <- fluidPage(
                  
                  tags$hr(),
                  
-                 # Admissions Additional Input Options
+                 tags$h3("Step 2:"),
+                 
+                 awesomeRadio(
+                   inputId = "filter_input",
+                   label = "Select Filter:",
+                   choices = c("Health Board", "Age", "Sex"),
+                   inline = TRUE, 
+                   status = "info"
+                 ),
+                 
+                 tags$hr(),
                  
                  conditionalPanel(
-                   condition = "input.data_view_input == 'total_admissions'",
+                   condition = "input.filter_input == 'Health Board'",
+                 
+                 tags$h3("Step 3:"),
+                 
+                 pickerInput(
+                   inputId = "health_board_input",
+                   label = "Select Health Board (Max. 5):", 
+                   choices = health_board_choice,
+                   selected = "All of Scotland",
+                   multiple = TRUE,
+                   options =  list("max-options" = 5),
+                 ),
+                 ),
+                 
+                 conditionalPanel(
+                   condition = "input.filter_input == 'Age'",
                    
+                   tags$h3("Step 3:"),
                    
-                   pickerInput(
-                     inputId = "health_board_input",
-                     label = tags$b("Select Health Board (Max. 5):"), 
-                     choices = health_board_choice,
-                     selected = "All of Scotland",
-                     multiple = TRUE,
-                     options =  list("max-options" = 5),
+                   awesomeCheckboxGroup(
+                     inputId = "age_input",
+                     label = "Select Age Group(s):", 
+                     choices = age_choice,
+                     inline = TRUE, 
+                     status = "info"
                    ),
+                   
+                 ),
+                 
+                 conditionalPanel(
+                   condition = "input.filter_input == 'Sex'",
+                   
+                   tags$h3("Step 3:"),
+                   
+                   awesomeCheckboxGroup(
+                     inputId = "sex_input",
+                     label = "Select Sex(s):", 
+                     choices = c("Male", "Female"),
+                     inline = TRUE, 
+                     status = "info"
+                   )
                  ),
                  
                  actionBttn(
                    inputId = "submit_input",
                    label = "Submit / Update",
-                   style = "jelly", 
+                   style = "bordered", 
                    color = "primary"
                  ),
                ),
@@ -60,7 +97,7 @@ ui <- fluidPage(
                  
                ),
              ),
-          ),
+    ),
     
     tabPanel(title = "Instructions",
              
@@ -75,7 +112,7 @@ ui <- fluidPage(
   tags$hr(),
   
   h5("GitHub Link / LinkedIn Link / Data Source Link",
-     style='background-color:#e6f0ff; padding: 10px;'),
+     style='background-color:#8b8c89; padding: 10px;'),
   
   
 )

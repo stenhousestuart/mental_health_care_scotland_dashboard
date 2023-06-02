@@ -55,4 +55,21 @@ suicide %>%
        y = "Total Number of Admissions \n",
        title = "Total Number of Registered Suicides by Health Board")
 ```
+```{r}
+                 conditionalPanel(
+                   condition = "input.year_input == 'total_admissions'",
+```
+
+```{r}
+admissions_age_sex %>%
+  filter(health_board == "All of Scotland") %>%
+  group_by(financial_year, age_group) %>%
+  summarise(total_discharge_count = sum(discharge_count)) %>% 
+  ggplot(aes(x = financial_year, y = total_discharge_count, colour = sex)) +
+  # geom_line() +
+  geom_point() +
+  labs(x = "\n Year",
+       y = "Total Number of Discharges \n",
+       title = "Total Number of Discharges by Sex")
+```
 

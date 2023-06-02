@@ -9,6 +9,7 @@ library(bslib)
 # Read In Clean Data
 
 admissions <- read_csv(here("data/clean_data/admissions_clean.csv"))
+admissions_age_sex <- read_csv(here("data/clean_data/admissions_age_sex_clean.csv"))
 length_of_stay <- read_csv(here("data/clean_data/length_of_stay_clean.csv"))
 diagnosis <- read_csv(here("data/clean_data/diagnosis_clean.csv"))
 suicide <- read_csv(here("data/clean_data/suicide_clean.csv"))
@@ -19,6 +20,12 @@ health_board_choice <- admissions %>%
   distinct(health_board) %>%
   arrange(health_board) %>% 
   pull()
+
+age_choice <- admissions_age_sex %>% 
+  distinct(age_group) %>%
+  pull()
+
+colour_scheme <- c("#01497c", "#2196f3", "#a9d6e5", "#5a189a", "#0d1b2a")
 
 data_view_options <- c("Total Admissions" = "total_admissions",
                     "Length of Stay" = "length_of_stay")

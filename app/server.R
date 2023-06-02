@@ -6,49 +6,104 @@ server <- function(input, output, session) {
                                      start_year <- input$year_input[1]
                                      end_year <- input$year_input[2]
                                      
-                                     if (input$data_view_input == "total_admissions") {
-                                     
-                                     admissions %>%
-                                       filter(financial_year >= input$year_input[1],
-                                              financial_year <= input$year_input[2],
-                                              health_board %in% input$health_board_input) %>% 
-                                       ggplot(aes(x = financial_year, y = number_of_admissions, colour = health_board)) +
-                                       geom_line() +
-                                       geom_point() +
-                                       scale_x_continuous(breaks=seq(start_year,
-                                                                     end_year,
-                                                                     1)) +
-                                       expand_limits(y = 0) +
-                                       labs(x = "\n Year",
-                                            y = "Total Number of Admissions \n",
-                                            title = "Total Number of Admissions by Health Board")
-                                     
-                                     
-                                     } else {
+                                     if (input$filter_input == "Health Board") {
                                        
-                                       length_of_stay %>% 
+                                       admissions %>%
                                          filter(financial_year >= input$year_input[1],
                                                 financial_year <= input$year_input[2],
-                                                health_board == "All of Scotland") %>%
-                                         ggplot(aes(x = financial_year, y = number_of_stays, fill = length_of_stay)) +
-                                         geom_col(position = "fill", colour = "white", size = 0.2) +
+                                                health_board %in% input$health_board_input) %>% 
+                                         ggplot(aes(x = financial_year, y = number_of_admissions, colour = health_board)) +
+                                         geom_line(linewidth = 2) +
+                                         geom_point(size = 3) +
                                          scale_x_continuous(breaks=seq(start_year,
                                                                        end_year,
                                                                        1)) +
-                                         scale_y_continuous(labels = scales::percent) +
+                                         expand_limits(y = 0) +
+                                         scale_colour_manual(values = colour_scheme) +
                                          labs(x = "\n Year",
-                                              y = "Length of Stay Proportion \n",
-                                              title = "Length of Stay Proportions")
+                                              y = "Total Number of Admissions \n",
+                                              title = "Total Number of Admissions by Health Board") +
+                                         theme(plot.title = element_text(size = 25, face = "bold", hjust = 0.5, vjust = 2),
+                                               panel.background = element_rect(fill = "#f5f5f5"),
+                                               panel.grid = element_line(colour = "grey90", linetype = "dashed"),
+                                               plot.background = element_rect(fill = "#e7ecef", color="#e7ecef"),
+                                               axis.title.y = element_text(size = 15),
+                                               axis.title.x = element_text(size = 15),
+                                               axis.text.y = element_text(size = 10),
+                                               axis.text.x = element_text(size = 10, angle = 45, vjust = 0.5),
+                                               legend.background = element_rect(fill = "#e7ecef", color="#e7ecef"))
                                        
+                                       
+                                     } else {
+                                       
+                                       if (input$filter_input == "Sex") {
+                                         
+                                         admissions_age_sex %>%
+                                           filter(financial_year >= input$year_input[1],
+                                                  financial_year <= input$year_input[2],
+                                                  sex %in% input$sex_input,
+                                                  health_board == "All of Scotland") %>%
+                                           group_by(financial_year, sex) %>%
+                                           summarise(total_discharge_count = sum(discharge_count)) %>% 
+                                           ggplot(aes(x = financial_year, y = total_discharge_count, colour = sex)) +
+                                           geom_line(linewidth = 2) +
+                                           geom_point(size = 3) +
+                                           scale_x_continuous(breaks=seq(start_year,
+                                                                         end_year,
+                                                                         1)) +
+                                           expand_limits(y = 0) +
+                                           scale_colour_manual(values = colour_scheme) +
+                                           labs(x = "\n Year",
+                                                y = "Total Number of Discharges \n",
+                                                title = "Total Number of Discharges by Sex") +
+                                           theme(plot.title = element_text(size = 25, face = "bold", hjust = 0.5, vjust = 2),
+                                                 panel.background = element_rect(fill = "#f5f5f5"),
+                                                 panel.grid = element_line(colour = "grey90", linetype = "dashed"),
+                                                 plot.background = element_rect(fill = "#e7ecef", color="#e7ecef"),
+                                                 axis.title.y = element_text(size = 15),
+                                                 axis.title.x = element_text(size = 15),
+                                                 axis.text.y = element_text(size = 10),
+                                                 axis.text.x = element_text(size = 10, angle = 45, vjust = 0.5),
+                                                 legend.background = element_rect(fill = "#e7ecef", color="#e7ecef"))
+                                         
+                                       } else {
+                                         
+                                         admissions_age_sex %>%
+                                           filter(financial_year >= input$year_input[1],
+                                                  financial_year <= input$year_input[2],
+                                                  age_group %in% input$age_input,
+                                                  health_board == "All of Scotland") %>%
+                                           group_by(financial_year, age_group) %>%
+                                           summarise(total_discharge_count = sum(discharge_count)) %>% 
+                                           ggplot(aes(x = financial_year, y = total_discharge_count, colour = age_group)) +
+                                           geom_line(linewidth = 2) +
+                                           geom_point(size = 3) +
+                                           scale_x_continuous(breaks=seq(start_year,
+                                                                         end_year,
+                                                                         1)) +
+                                           expand_limits(y = 0) +
+                                           scale_colour_manual(values = colour_scheme) +
+                                           labs(x = "\n Year",
+                                                y = "Total Number of Discharges \n",
+                                                title = "Total Number of Discharges by Age Group") +
+                                           theme(plot.title = element_text(size = 25, face = "bold", hjust = 0.5, vjust = 2),
+                                                 panel.background = element_rect(fill = "#f5f5f5"),
+                                                 panel.grid = element_line(colour = "grey90", linetype = "dashed"),
+                                                 plot.background = element_rect(fill = "#e7ecef", color="#e7ecef"),
+                                                 axis.title.y = element_text(size = 15),
+                                                 axis.title.x = element_text(size = 15),
+                                                 axis.text.y = element_text(size = 10),
+                                                 axis.text.x = element_text(size = 10, angle = 45, vjust = 0.5),
+                                                 legend.background = element_rect(fill = "#e7ecef", color="#e7ecef"))
+                                       }
                                      }
-                                     
                                    })
   
   
   output$admissions_plot <- renderPlot({
-
+    
     admissions_plot()  
-  
-    })
+    
+  })
   
 }
