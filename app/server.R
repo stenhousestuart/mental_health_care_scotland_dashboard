@@ -13,7 +13,7 @@ server <- function(input, output, session) {
                                                 financial_year <= input$year_input[2],
                                                 health_board %in% input$health_board_input) %>% 
                                          ggplot(aes(x = financial_year, y = number_of_admissions, colour = health_board)) +
-                                         geom_line(linewidth = 2) +
+                                         geom_line(linewidth = 2, show.legend = FALSE) +
                                          geom_point(size = 3) +
                                          scale_x_continuous(breaks=seq(start_year,
                                                                        end_year,
@@ -22,7 +22,8 @@ server <- function(input, output, session) {
                                          scale_colour_manual(values = colour_scheme) +
                                          labs(x = "\n Year",
                                               y = "Total Number of Admissions \n",
-                                              title = "Total Number of Admissions by Health Board") +
+                                              title = "Total Number of Admissions by Health Board",
+                                              colour = "Health Board") +
                                          theme(plot.title = element_text(size = 25, face = "bold", hjust = 0.5, vjust = 2),
                                                panel.background = element_rect(fill = "#f5f5f5"),
                                                panel.grid = element_line(colour = "grey90", linetype = "dashed"),
@@ -31,7 +32,11 @@ server <- function(input, output, session) {
                                                axis.title.x = element_text(size = 15),
                                                axis.text.y = element_text(size = 10),
                                                axis.text.x = element_text(size = 10, angle = 45, vjust = 0.5),
-                                               legend.background = element_rect(fill = "#e7ecef", color="#e7ecef"))
+                                               legend.title = element_text(size= 12, face = "bold"),
+                                               legend.text= element_text(size= 12),
+                                               legend.background = element_rect(fill = "#e7ecef",
+                                                                                size=0.5, linetype="solid", 
+                                                                                colour ="grey90"))
                                        
                                        
                                      } else {
@@ -55,7 +60,8 @@ server <- function(input, output, session) {
                                            scale_colour_manual(values = colour_scheme) +
                                            labs(x = "\n Year",
                                                 y = "Total Number of Discharges \n",
-                                                title = "Total Number of Discharges by Sex") +
+                                                title = "Total Number of Discharges by Sex",
+                                                colour = "Sex") +
                                            theme(plot.title = element_text(size = 25, face = "bold", hjust = 0.5, vjust = 2),
                                                  panel.background = element_rect(fill = "#f5f5f5"),
                                                  panel.grid = element_line(colour = "grey90", linetype = "dashed"),
@@ -64,7 +70,11 @@ server <- function(input, output, session) {
                                                  axis.title.x = element_text(size = 15),
                                                  axis.text.y = element_text(size = 10),
                                                  axis.text.x = element_text(size = 10, angle = 45, vjust = 0.5),
-                                                 legend.background = element_rect(fill = "#e7ecef", color="#e7ecef"))
+                                                 legend.title = element_text(size= 12, face = "bold"),
+                                                 legend.text= element_text(size= 12),
+                                                 legend.background = element_rect(fill = "#e7ecef",
+                                                                                  size=0.5, linetype="solid", 
+                                                                                  colour ="grey90"))
                                          
                                        } else {
                                          
@@ -85,7 +95,8 @@ server <- function(input, output, session) {
                                            scale_colour_manual(values = colour_scheme) +
                                            labs(x = "\n Year",
                                                 y = "Total Number of Discharges \n",
-                                                title = "Total Number of Discharges by Age Group") +
+                                                title = "Total Number of Discharges by Age Group",
+                                                colour = "Age Group") +
                                            theme(plot.title = element_text(size = 25, face = "bold", hjust = 0.5, vjust = 2),
                                                  panel.background = element_rect(fill = "#f5f5f5"),
                                                  panel.grid = element_line(colour = "grey90", linetype = "dashed"),
@@ -94,7 +105,11 @@ server <- function(input, output, session) {
                                                  axis.title.x = element_text(size = 15),
                                                  axis.text.y = element_text(size = 10),
                                                  axis.text.x = element_text(size = 10, angle = 45, vjust = 0.5),
-                                                 legend.background = element_rect(fill = "#e7ecef", color="#e7ecef"))
+                                                 legend.title = element_text(size= 12, face = "bold"),
+                                                 legend.text= element_text(size= 12),
+                                                 legend.background = element_rect(fill = "#e7ecef",
+                                                                                  size=0.5, linetype="solid", 
+                                                                                  colour ="grey90"))
                                        }
                                      }
                                    })

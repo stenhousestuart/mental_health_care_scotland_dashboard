@@ -1,11 +1,15 @@
 ui <- fluidPage(
   
   setBackgroundColor("#e7ecef"),
+  setSliderColor(c("#3279b7"), c(1)),
   
-  # theme = bs_theme(bootswatch = "litera"),
+  tags$script(src = "https://kit.fontawesome.com/d2641f9054.js"),
   
-  titlePanel(h1("Mental Health Admissions & Discharges: Scotland",
-                style='background-color:#6096ba; border-radius: 5px; padding: 20px;')),
+  # theme = bs_theme(bootswatch = "lumen"),
+  
+  titlePanel(h1(tags$i(class = "fa-solid fa-brain"), "Mental Health Care In Scotland",
+                p("A Tool Designed to Support Basic Exploratory Analysis of Data Relating To Mental Health Care In Scotland", style = "font-size: 12px; color: #3279b7;"), 
+                style="background-color:#FFFFFF; border-radius: 5px; padding: 10px; border-color: black; border-style: solid;")),
   
   tabsetPanel(
     tabPanel(title = "App",
@@ -15,7 +19,7 @@ ui <- fluidPage(
              sidebarLayout(
                sidebarPanel(
                  
-                 tags$h3("Step 1:"),
+                 tags$h4("Step 1:"),
                  
                  sliderInput(inputId = "year_input", 
                              label = "Select Date Range:",
@@ -27,14 +31,14 @@ ui <- fluidPage(
                  
                  tags$hr(),
                  
-                 tags$h3("Step 2:"),
+                 tags$h4("Step 2:"),
                  
                  awesomeRadio(
                    inputId = "filter_input",
                    label = "Select Filter:",
                    choices = c("Health Board", "Age", "Sex"),
                    inline = TRUE, 
-                   status = "info"
+                   status = "primary"
                  ),
                  
                  tags$hr(),
@@ -42,7 +46,7 @@ ui <- fluidPage(
                  conditionalPanel(
                    condition = "input.filter_input == 'Health Board'",
                  
-                 tags$h3("Step 3:"),
+                 tags$h4("Step 3:"),
                  
                  pickerInput(
                    inputId = "health_board_input",
@@ -57,14 +61,14 @@ ui <- fluidPage(
                  conditionalPanel(
                    condition = "input.filter_input == 'Age'",
                    
-                   tags$h3("Step 3:"),
+                   tags$h4("Step 3:"),
                    
                    awesomeCheckboxGroup(
                      inputId = "age_input",
                      label = "Select Age Group(s):", 
                      choices = age_choice,
                      inline = TRUE, 
-                     status = "info"
+                     status = "primary"
                    ),
                    
                  ),
@@ -72,26 +76,29 @@ ui <- fluidPage(
                  conditionalPanel(
                    condition = "input.filter_input == 'Sex'",
                    
-                   tags$h3("Step 3:"),
+                   tags$h4("Step 3:"),
                    
                    awesomeCheckboxGroup(
                      inputId = "sex_input",
                      label = "Select Sex(s):", 
                      choices = c("Male", "Female"),
                      inline = TRUE, 
-                     status = "info"
+                     status = "primary"
                    )
                  ),
                  
-                 actionBttn(
+                 actionButton(
                    inputId = "submit_input",
                    label = "Submit / Update",
-                   style = "bordered", 
-                   color = "primary"
+                   icon = icon("refresh"),
+                   style= "color: #fff; background-color: #3279b7; border-color: black"
                  ),
                ),
                
                mainPanel(
+                 
+                 tags$br(),
+                 tags$br(),
                  
                  plotOutput("admissions_plot")
                  
@@ -99,21 +106,17 @@ ui <- fluidPage(
              ),
     ),
     
-    tabPanel(title = "Instructions",
-             
-    ),
-    
-    tabPanel(title = "Credits",
+    tabPanel(title = "Details",
              
     ),
   ),
   
   # FOOTER
-  tags$hr(),
-  
-  h5("GitHub Link / LinkedIn Link / Data Source Link",
-     style='background-color:#8b8c89; padding: 10px;'),
-  
+  h5(
+  tags$a(href="https://github.com/stenhousestuart", tags$i(class = "fa-brands fa-square-github fa-xl")),
+  tags$a(href="https://www.linkedin.com/in/stuartstenhouse", tags$i(class = "fa-brands fa-linkedin fa-xl")),
+  ("// Data Source:"), tags$a(href="https://www.opendata.nhs.scot", "Public Health Scotland"),
+  style="background-color:#FFFFFF; border-radius: 5px; padding: 20px; border-color: black; border-style: solid;"),
   
 )
 
