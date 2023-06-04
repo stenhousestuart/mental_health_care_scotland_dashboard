@@ -106,7 +106,7 @@ ui <- fluidPage(
              ),
     ),
     
-    tabPanel(title = "Details",
+    tabPanel(title = "Info",
              
     ),
   ),

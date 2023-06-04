@@ -12,9 +12,6 @@ library(gtExtras)
 
 admissions <- read_csv(here("data/clean_data/admissions_clean.csv"))
 admissions_age_sex <- read_csv(here("data/clean_data/admissions_age_sex_clean.csv"))
-length_of_stay <- read_csv(here("data/clean_data/length_of_stay_clean.csv"))
-diagnosis <- read_csv(here("data/clean_data/diagnosis_clean.csv"))
-suicide <- read_csv(here("data/clean_data/suicide_clean.csv"))
 
 # Set Input Choices
 
@@ -28,6 +25,3 @@ age_choice <- admissions_age_sex %>%
   pull()
 
 colour_scheme <- c("#01497c", "#2196f3", "#a9d6e5", "#5a189a", "#0d1b2a")
-
-data_view_options <- c("Total Admissions" = "total_admissions",
-                    "Length of Stay" = "length_of_stay")
