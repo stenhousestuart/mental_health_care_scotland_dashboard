@@ -12,7 +12,7 @@ ui <- fluidPage(
                 style="background-color:#FFFFFF; border-radius: 5px; padding: 10px; border-color: black; border-style: solid;")),
   
   tabsetPanel(
-    tabPanel(title = "App",
+    tabPanel(title = h6(tags$i(class = "fa-solid fa-house fa-lg"), " Home"),
              
              tags$br(),
              
@@ -106,7 +106,30 @@ ui <- fluidPage(
              ),
     ),
     
-    tabPanel(title = "Info",
+    tabPanel(title = h6(tags$i(class = "fa-solid fa-circle-info fa-lg"), " About"),
+             
+             
+             tags$br(),
+             
+             p(tags$b("Aim/Purpose:"), 
+               tags$br(), 
+               "The purpose of this app is for learning purposes only. I 
+               developed the initial version during my free time while completing 
+               the CodeClan Professional Data Analysis Course. It serves as a 
+               tool for personal development and to demonstrate relevant data 
+               analysis skills.",
+               tags$br(),
+               tags$br(), 
+               tags$b("Data:"), 
+               tags$br(), 
+               "- The data used is sourced from Public Health Scotland (PHS) and is made available 
+               under the UK Open Government Licence (OGL). Data was downloaded in May & June 2023.",
+               tags$br(),
+               "- All figures displayed are a combined total of SMR01 and SMR04 entries. For more information
+               on how thse records are compiled, please see the PHS publication on 'Mental Health Inpatient Activity', ", 
+               tags$a(href="https://publichealthscotland.scot/publications/mental-health-inpatient-activity/mental-health-inpatient-activity-28-march-2023/data-summary/", "here."),
+               tags$br(),
+               style="background-color:#FFFFFF; border-radius: 5px; padding: 20px; border-color: black; border-style: solid;"),
              
     ),
   ),
@@ -116,6 +139,7 @@ ui <- fluidPage(
   tags$a(href="https://github.com/stenhousestuart", tags$i(class = "fa-brands fa-square-github fa-xl")),
   tags$a(href="https://www.linkedin.com/in/stuartstenhouse", tags$i(class = "fa-brands fa-linkedin fa-xl")),
   ("// Data Source:"), tags$a(href="https://www.opendata.nhs.scot", "Public Health Scotland"),
+  ("// Licence:"), tags$a(href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/", "UK Open Government Licence"),
   style="background-color:#FFFFFF; border-radius: 5px; padding: 20px; border-color: black; border-style: solid;"),
   
 )

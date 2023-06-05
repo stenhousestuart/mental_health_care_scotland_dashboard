@@ -49,8 +49,8 @@ server <- function(input, output, session) {
                                                   sex %in% input$sex_input,
                                                   health_board == "All of Scotland") %>%
                                            group_by(financial_year, sex) %>%
-                                           summarise(total_discharge_count = sum(discharge_count)) %>% 
-                                           ggplot(aes(x = financial_year, y = total_discharge_count, colour = sex)) +
+                                           summarise(total_patient_count = sum(patients_count)) %>% 
+                                           ggplot(aes(x = financial_year, y = total_patient_count, colour = sex)) +
                                            geom_line(linewidth = 2) +
                                            geom_point(size = 3) +
                                            scale_x_continuous(breaks=seq(start_year,
@@ -59,8 +59,8 @@ server <- function(input, output, session) {
                                            expand_limits(y = 0) +
                                            scale_colour_manual(values = colour_scheme) +
                                            labs(x = "\n Year",
-                                                y = "Total Number of Discharges \n",
-                                                title = "Total Number of Discharges by Sex",
+                                                y = "Total Number of Individual Patients Admitted \n",
+                                                title = "Total Number of Individual Patients Admitted by Sex",
                                                 colour = "Sex") +
                                            theme(plot.title = element_text(size = 25, face = "bold", hjust = 0.5, vjust = 2),
                                                  panel.background = element_rect(fill = "#f5f5f5"),
@@ -84,8 +84,8 @@ server <- function(input, output, session) {
                                                   age_group %in% input$age_input,
                                                   health_board == "All of Scotland") %>%
                                            group_by(financial_year, age_group) %>%
-                                           summarise(total_discharge_count = sum(discharge_count)) %>% 
-                                           ggplot(aes(x = financial_year, y = total_discharge_count, colour = age_group)) +
+                                           summarise(total_patient_count = sum(patients_count)) %>% 
+                                           ggplot(aes(x = financial_year, y = total_patient_count, colour = age_group)) +
                                            geom_line(linewidth = 2) +
                                            geom_point(size = 3) +
                                            scale_x_continuous(breaks=seq(start_year,
@@ -94,8 +94,8 @@ server <- function(input, output, session) {
                                            expand_limits(y = 0) +
                                            scale_colour_manual(values = colour_scheme) +
                                            labs(x = "\n Year",
-                                                y = "Total Number of Discharges \n",
-                                                title = "Total Number of Discharges by Age Group",
+                                                y = "Total Number of Individual Patients Admitted \n",
+                                                title = "Total Number of Individual Patients Admitted by Age Group",
                                                 colour = "Age Group") +
                                            theme(plot.title = element_text(size = 25, face = "bold", hjust = 0.5, vjust = 2),
                                                  panel.background = element_rect(fill = "#f5f5f5"),
