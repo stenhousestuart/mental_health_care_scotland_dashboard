@@ -2,7 +2,7 @@
  
 ------------------------------------------------------------------------
 
-![App Screenshot](/Users/stuartstenhouse/Codeclan/mental_health_care_scotland_dashboard/www/readme_screenshot_a.png)
+![App Screenshot](/Users/stuartstenhouse/Codeclan/mental_health_care_scotland_dashboard/readme_screenshot_a.png)
 
 ------------------------------------------------------------------------
 
