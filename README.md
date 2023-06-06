@@ -2,7 +2,7 @@
  
 ------------------------------------------------------------------------
 
-![App Screenshot](here(www/readme_screenshot_a.png))
+![App Screenshot](here(/www/readme_screenshot_a.png))
 
 ------------------------------------------------------------------------
 
