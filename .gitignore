@@ -2,7 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
-
-Notebook Files
+### Notebook Files ###
 *.Rmd
 *.nb.html
+### Data Files ###
+*.csv
