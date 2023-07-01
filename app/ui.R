@@ -12,7 +12,7 @@ ui <- fluidPage(
                 style="background-color:#FFFFFF; border-radius: 5px; padding: 10px; border-color: black; border-style: solid;")),
   
   tabsetPanel(
-    tabPanel(title = h6(tags$i(class = "fa-solid fa-house fa-lg"), " Home"),
+    tabPanel(title = h6(tags$i(class = "fa-solid fa-location-dot fa-lg"), " By Health Board"),
              
              tags$br(),
              
@@ -104,6 +104,11 @@ ui <- fluidPage(
                  
                ),
              ),
+    ),
+    
+    tabPanel(title = h6(tags$i(class = "fa-solid fa-person fa-lg"), " By Demographic"),
+             
+             
     ),
     
     tabPanel(title = h6(tags$i(class = "fa-solid fa-circle-info fa-lg"), " About"),

@@ -6,11 +6,6 @@ server <- function(input, output, session) {
                                      start_year <- input$year_input[1]
                                      end_year <- input$year_input[2]
                                      
-                                     
-                                     
-                                     
-                                     
-                                     
                                      if (input$filter_input == "Health Board") {
                                        
                                        admissions %>%
@@ -43,7 +38,7 @@ server <- function(input, output, session) {
                                                                                 size=0.5, linetype="solid", 
                                                                                 colour ="grey90"))
                                        
-                                      
+                                       
                                        
                                      } else {
                                        
@@ -127,5 +122,4 @@ server <- function(input, output, session) {
     
   })
   
-  }
-  
+}
