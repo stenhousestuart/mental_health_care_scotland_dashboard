@@ -45,17 +45,17 @@ ui <- fluidPage(
                  
                  conditionalPanel(
                    condition = "input.filter_input == 'Health Board'",
-                 
-                 tags$h4("Step 3:"),
-                 
-                 pickerInput(
-                   inputId = "health_board_input",
-                   label = "Select Health Board (Max. 5):", 
-                   choices = health_board_choice,
-                   selected = "All of Scotland",
-                   multiple = TRUE,
-                   options =  list("max-options" = 5),
-                 ),
+                   
+                   tags$h4("Step 3:"),
+                   
+                   pickerInput(
+                     inputId = "health_board_input",
+                     label = "Select Health Board (Max. 5):", 
+                     choices = health_board_choice,
+                     selected = "All of Scotland",
+                     multiple = TRUE,
+                     options =  list("max-options" = 5),
+                   ),
                  ),
                  
                  conditionalPanel(
@@ -136,13 +136,12 @@ ui <- fluidPage(
   
   # FOOTER
   h5(
-  tags$a(href="https://github.com/stenhousestuart", tags$i(class = "fa-brands fa-square-github fa-xl")),
-  tags$a(href="https://www.linkedin.com/in/stuartstenhouse", tags$i(class = "fa-brands fa-linkedin fa-xl")),
-  ("// Data Source:"), tags$a(href="https://www.opendata.nhs.scot", "Public Health Scotland"),
-  ("// Licence:"), tags$a(href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/", "UK Open Government Licence"),
-  style="background-color:#FFFFFF; border-radius: 5px; padding: 20px; border-color: black; border-style: solid;"),
+    tags$a(href="https://github.com/stenhousestuart", tags$i(class = "fa-brands fa-square-github fa-xl")),
+    tags$a(href="https://www.linkedin.com/in/stuartstenhouse", tags$i(class = "fa-brands fa-linkedin fa-xl")),
+    ("// Data Source:"), tags$a(href="https://www.opendata.nhs.scot", "Public Health Scotland"),
+    ("// Licence:"), tags$a(href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/", "UK Open Government Licence"),
+    style="background-color:#FFFFFF; border-radius: 5px; padding: 20px; border-color: black; border-style: solid;"),
   
 )
-
 
 
