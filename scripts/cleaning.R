@@ -8,29 +8,11 @@ library(here)
 
 # Load Functions
 
-source(here("functions/functions.R"))
+source(here("scripts/functions.R"))
 
-load_data <- function(folder_path){
-  
-  files <- list.files(path = folder_path, full.names = TRUE)
-  
-  if (any(!grepl("\\.csv$", files, ignore.case = TRUE))) {
-    stop("Not All Data Is In .csv Format")
-  }
-  
-  for (file_path in files) {
-    file_name <- basename(file_path)
-    data_frame_name <- str_replace(file_name, "\\.csv$", "")
-    
-    data <- read_csv(file_path)
-    cleaned_data <- janitor::clean_names(data)
-    
-    assign(data_frame_name, cleaned_data, envir = .GlobalEnv)
-  }
-}
+# Read In Raw Data
 
 load_data(here("data/raw_data"))
-
 
 # Read In Raw Data
 
