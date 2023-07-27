@@ -1,26 +1,54 @@
 # Load Libraries
 
 library(tidyverse)
+library(testthat)
+library(assertr)
 library(janitor)
 library(here)
 
+# Load Functions
+
+source(here("functions/functions.R"))
+
+load_data <- function(folder_path){
+  
+  files <- list.files(path = folder_path, full.names = TRUE)
+  
+  if (any(!grepl("\\.csv$", files, ignore.case = TRUE))) {
+    stop("Not All Data Is In .csv Format")
+  }
+  
+  for (file_path in files) {
+    file_name <- basename(file_path)
+    data_frame_name <- str_replace(file_name, "\\.csv$", "")
+    
+    data <- read_csv(file_path)
+    cleaned_data <- janitor::clean_names(data)
+    
+    assign(data_frame_name, cleaned_data, envir = .GlobalEnv)
+  }
+}
+
+load_data(here("data/raw_data"))
+
+
 # Read In Raw Data
 
-admissions_health_board <- read_csv(here("data/raw_data/health_board_trend.csv"))
-admissions_scotland <- read_csv(here("data/raw_data/scotland_trend.csv"))
-admissions_age_sex <- read_csv(here("data/raw_data/age_sex.csv"))
-
-# Clean Data
-
-admissions_health_board_clean <- admissions_health_board %>% clean_names()
-admissions_scotland_clean <- admissions_scotland %>% clean_names()
-admissions_age_sex_clean <- admissions_age_sex %>% clean_names()
+# admissions_health_board <- read_csv(here("data/raw_data/health_board_trend.csv"))
+# admissions_scotland <- read_csv(here("data/raw_data/scotland_trend.csv"))
+# admissions_age_sex <- read_csv(here("data/raw_data/age_sex.csv"))
+# 
+# # Clean Data
+# 
+# admissions_health_board_clean <- admissions_health_board %>% clean_names()
+# admissions_scotland_clean <- admissions_scotland %>% clean_names()
+# admissions_age_sex_clean <- admissions_age_sex %>% clean_names()
 
 ## Map Health Board Names To Health Board Alphanumeric Identifiers
 
 ### Admissions by Health Board
 
-admissions_health_board_clean <- admissions_health_board_clean %>% 
+admissions_health_board_clean <- health_board_trend %>% 
   mutate(hbt = case_when(
     hbt == "S08000015" ~ "NHS Ayrshire and Arran",
     hbt == "S08000016" ~ "NHS Borders",
@@ -47,14 +75,14 @@ admissions_health_board_clean <- admissions_health_board_clean %>%
 
 ### Admissions by Country
 
-admissions_scotland_clean <- admissions_scotland_clean %>% 
+admissions_scotland_clean <- scotland_trend %>% 
   mutate(country = case_when(
     country == "S92000003" ~ "All of Scotland")) %>% 
     rename("health_board" = "country")
 
 ### Admissions by Age & Sex
 
-admissions_age_sex_clean <- admissions_age_sex_clean %>% 
+admissions_age_sex_clean <- age_sex %>% 
   mutate(hbr = case_when(
     hbr == "S08000015" ~ "NHS Ayrshire and Arran",
     hbr == "S08000016" ~ "NHS Borders",
@@ -140,8 +168,10 @@ write_csv(admissions_age_sex_clean,
 ## Clear Environment
 
 rm(admissions_clean)
-rm(admissions_health_board)
+rm(health_board_trend)
 rm(admissions_health_board_clean)
-rm(admissions_scotland)
+rm(scotland_trend)
 rm(admissions_scotland_clean)
+rm(age_sex)
+rm(admissions_age_sex_clean)
 rm(pattern_to_remove)
