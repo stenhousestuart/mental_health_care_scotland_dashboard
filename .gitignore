@@ -6,4 +6,6 @@
 *.Rmd
 *.nb.html
 ### Data Files ###
-*.csv
+
+data/
+
