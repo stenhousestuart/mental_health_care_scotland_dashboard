@@ -2,7 +2,6 @@
 
 library(tidyverse)
 library(testthat)
-library(assertr)
 library(janitor)
 library(here)
 
